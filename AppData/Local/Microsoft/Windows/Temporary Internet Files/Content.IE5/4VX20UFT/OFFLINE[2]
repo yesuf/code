@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Offline</title>
+</head>
+<body width="300" height="300">
+<h1>You are offline</h1>
+<button type="button" onclick="window.external.showDialog(false);">EXIT</button>
+<script>
+    var we = window.external;
+    if (!we.isVisible())
+        we.showDialog(false);
+</script>
+</body>
+</html>

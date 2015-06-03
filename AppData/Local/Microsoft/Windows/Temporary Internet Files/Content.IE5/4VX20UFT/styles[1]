@@ -1,0 +1,312 @@
+﻿
+/* Common styles across all IE versions */
+/* WARNING: only use exact px size units for OS DPI independant sizing (EVEN FONTS!) */
+
+body
+{
+	background: #191919 url('background.png') repeat-y;
+	padding: 0;
+	margin: 0;
+	border: 0px;
+	color: white;
+	font: normal normal normal 100% Calibri, Arial, sans-serif;
+	font-size: 15px; /* only use px size for OS DPI independant sizing (not pt) */
+	cursor: default;
+}
+
+table
+{
+ 	padding: 0;
+	margin: 0;
+	border: 0px;
+	border-collapse: collapse;
+}
+
+td
+{
+	padding: 0;
+	border: 0px;
+	border-collapse: collapse;
+}
+
+img
+{
+	border:0px
+}
+
+a
+{
+	text-decoration: none;
+}
+.grid
+{
+	position:relative;
+	top: 5px;
+	left: 50px;
+	width: 350px; 
+}
+
+.link
+{
+	text-decoration:none;
+	color: white;
+	font-size: 19px;
+	font-weight: bold;
+	cursor:pointer;
+}
+
+.button
+{
+	cursor:pointer;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.button li
+{
+	list-style-type: none;
+	display: inline-block;
+	float: left;
+	line-height: 35px;
+	padding: 0;
+	margin: 0;
+}
+
+.action
+{
+	padding-top: 15px;
+	margin: 0;
+}
+
+.info
+{
+	font-style: italic;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px inset silver; 
+	color: silver
+}
+
+.lastinfo
+{
+	font-style: italic;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: silver
+}
+
+.title
+{
+	color: white;
+	font: normal normal normal 100% Calibri, Arial, sans-serif;
+	font-size: 19px;
+}
+
+.title a
+{
+	display: inline-block;  
+	width: 23px; 
+	height: 23px; 
+	background: transparent url(info.png) no-repeat; 
+} 
+
+.title a:hover 
+{ 
+	background-position: -23px 0; 
+}
+
+.closer a
+{ 
+	display: block; 
+	width: 26px; 
+	height: 26px; 
+	background: transparent url(close.png) no-repeat; 
+} 
+
+.closer a:hover 
+{ 
+	background-position: -26px 0; 
+} 
+
+.backleft_up
+{
+	background-image: url('header_back_up_left.png');
+	width: 28px;
+	height: 26px;
+}
+
+.backmid_up
+{
+	background-image: url('header_back_up_middle.png');
+	background-repeat: repeat-x;
+	height: 26px;
+	color: #454545;
+	vertical-align: middle;
+}
+
+.backmid_up a
+{
+	height: 26px;
+	color: white;
+	text-decoration: none;
+}
+
+.backright_up
+{
+	background-image: url('header_back_up_right.png');
+	width: 26px;
+	height: 26px;
+}
+
+.backleft_hover
+{
+	background-image: url('header_back_hover_left.png');
+	width: 28px;
+	height: 26px;
+}
+
+
+.backmid_hover
+{
+	background-image: url('header_back_hover_middle.png');
+	background-repeat: repeat-x;
+	height: 26px;
+	vertical-align: middle;
+}
+
+.backmid_hover a
+{
+	height: 26px;
+	color: white;
+	text-decoration: none;
+}
+
+
+.backright_hover
+{
+	background-image: url('header_back_hover_right.png');
+	width: 26px;
+	height: 26px;
+}
+
+.blueleft_up
+{
+	background-image: url('action_button_blue_up_left.png');
+	width: 34px;
+	height: 35px;
+}
+
+.bluemid_up
+{
+	background-image: url('action_button_blue_up_middle.png');
+	background-repeat: repeat-x;
+	height: 35px;
+	color: #454545;
+	vertical-align: middle;
+}
+
+.bluemid_up a
+{
+	height: 35px;
+	color:#DDEEFF;
+	text-decoration: none;
+	font-size: 19px;
+}
+
+.blueright_up
+{
+	background-image: url('action_button_blue_up_right.png');
+	width: 35px;
+	height: 35px;
+}
+
+.blueleft_hover
+{
+	background-image: url('action_button_blue_hover_left.png');
+	width: 34px;
+	height: 35px;
+}
+
+.bluemid_hover
+{
+	background-image: url('action_button_blue_hover_middle.png');
+	background-repeat: repeat-x;
+	height: 35px;
+	vertical-align: middle;
+}
+
+.bluemid_hover a
+{
+	height: 35px;
+	color: white;
+	text-decoration: none;
+	font-size: 19px;
+}
+
+.blueright_hover
+{
+	background-image: url('action_button_blue_hover_right.png');
+	width: 35px;
+	height: 35px;
+}
+
+#header
+{
+	background-image: url('header.png');
+	height: 37px;
+	width:100%;
+}
+
+#headLogoLPad
+{
+	width: 8px;
+}
+
+#headLogo
+{
+/*	background: url('logo.png') no-repeat center; */
+/* Govind Fix for Space in title*/
+	height: 21px;
+	width: 84px;
+
+}
+
+#headLogoRPad
+{
+	width: 13px;
+}
+
+#headText
+{
+	color: white;
+	font-size: 19px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+#headCloser
+{
+	width: 36px;
+}
+
+#footer
+{
+	background: #454545;
+	background-image:url('footer.png');
+	background-repeat:repeat-x;
+	height: 21px;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	right:0px;
+}
+
+#footertext
+{
+	color: silver;
+	font-size: 11px;
+	text-align: right;
+	vertical-align: top;
+	padding-top: 3px;
+}

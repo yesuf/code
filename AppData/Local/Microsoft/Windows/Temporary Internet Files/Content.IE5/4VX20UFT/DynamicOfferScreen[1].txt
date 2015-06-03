@@ -1,0 +1,965 @@
+<html>
+    <head>
+        <title>431 - NonProduct (Downloadmanager)</title><script type='text/javascript'>var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-37348037-1']);_gaq.push(['_setDomainName', 'ppdownload.com']);_gaq.push(['_setAllowLinker', true]);
+                                            _gaq.push(['_trackPageview']);
+
+                                            (function() {
+                                              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                              ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                                              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                                            })();</script><style type='text/css'>body      {          width:100%; height:100%; margin:0px; padding:0px; font-size:font-family:helvetica; font-size:12px;}   .divLeadpName      {         border-bottom-style:groove;border-bottom-width: thin; padding-left:61px; padding-top:9px; font-size:font-family:helvetica; font-style:italic; font-size:25px;                 font-weight:bold; color:black; position:absolute;   width: 100%; background-color: #fff; ba}   #divTop         {display: none}  #divMiddle      {background-color: #efecec; height: 100%;} #middle    {background-color: #fff;} .divOnNext      {          position:absolute; width:89px; height:26px; cursor:pointer;  bottom:  8px; margin-left:1px; right: 1%;                           background:url("http://static.revenyou.com/offers/images/Theme12/button.png");}   .divAccept      {          text-align:center; font-family:Arial halvetica; width:89px; position:absolute; font-size:12px; bottom: 7px; margin-left:1px; right: 2%;}     .divDecline      {         text-align:center;height:26px; bottom: 32px; cursor:pointer; font-family:Arial helvetica; font-size:11px; position:absolute; left:3px !important; padding-top: 4px;}     .divAgreementLeadP{          position:absolute; bottom:52px !important; left:3px !important;font-size:10px;      }     #divAgreementLeadPWelcome {bottom:46px;position:absolute;left:187px;font-size:10px;}     a:visited      {           color:Blue;       } #bottom         {background-color: #efecec; width:100%; height: 40px;bottom:0;position:absolute;}.divBottom { width:100%; position:absolute; bottom:0; border-top-style:groove; border-top-width: thin; padding-bottom: 40px;} #imgTopLine  {  display: none; position:absolute; top:0; left:0; width:100%; height:50px; } #imgTopComp  {   display: none;position:absolute; top:2; left:7; } #imMiddleBG  {   display: none;position:absolute; top:50px; bottom:50px; left:0px; width:100%; height:inherit; #imgToolbarComp  {  display: none; } #imgBottomLine {   display: none;width:100%; height:50px; padding:0px; margin:0px; position:absolute; bottom:0; }  #imgNextCase {   display: none;position:absolute; bottom:0px; height:50px; right:0px; } #imgToolbarComp { display: inline-block; margin-left: -10px;  margin-top: -70px; position: absolute; zoom:113%;} </style>     
+    </head>
+
+    <body id="page"> 
+
+        <div style="height:100%; width:100%"> 
+            <!--top-->
+          <!--  <div>
+                <img id="imgTopLine" src="http://static.revenyou.com/offers/images/Theme12/topLine.jpg" alt=''/>
+                <img id="imgTopComp" src="http://static.revenyou.com/offers/images/Theme12/topComp.png" alt=''/>
+                
+                <div class="divLeadpName">
+                    PRODUCT_NAME
+                </div> 
+            </div>-->
+            <!--middle-->   
+                     
+            <div style="width: 20%; height: 100%; left: 0px; z-index: 1000; position: absolute;">
+                <!--<img id="imgToolbarComp" src="http://static.revenyou.com/offers/images/Theme12/bodyImg.png" alt=''/>-->
+                <img width="170px" height="354px;" src="http://static.revenyou.com/offers/images/Theme12/bodyImg.png" alt=''/>
+            </div>
+            <div id="divMiddle">
+              <div style="width: 70%; left: 30%; top: 0px; position: absolute;">
+                    <img id="imMiddleBG" src="http://static.revenyou.com/offers/images/Theme12/bgImg.jpg" alt=''/>
+                    
+                  
+                    <!--<div class="divLeadpName"> -->
+                    <div style="padding-left:5px; padding-top:9px; font-family: helvetica; font-size:23px; font-weight:bold;">
+                        PRODUCT_NAME
+                    </div>
+                    <div style="position:absolute; top:40px; left:5px; padding-right:10px;"><!--Here is the content-->  
+                    <div style="text-align:left; font-size:12px; margin-top:1px; font-family:Arial;">
+                        <div>
+                            <label style="font-size:16px; position:relative; font-weight:bold;">
+                                Click "Accept" now to continue your installation
+                            </label>
+                        </div>    
+                        <div style="margin-top:2px;">
+                            <div style="width:100%; font-size: 12px;">
+                                Please read the following important information and terms before continuing.
+                            </div>
+                            <div id="productDescription" style="font-size: 12px; top: 10px; display: none; visibility: collapse;">
+                                
+                            </div>
+                            <div style="overflow-y:auto; overflow-x:hidden; width:95%; top: 5px; border:1px #666666 solid; position:relative; padding: 5px; display:none;" id="eula" >
+                                <div style="font-weight:bold; font-size:15px; padding-top:1px; padding-bottom:0px;">END USER LICENSE AGREEMENT</div>                                
+                                    <br/>
+                                    THIS IS A LICENSE AGREEMENT ("TERMS" OR THE "AGREEMENT") BETWEEN YOU AND TRUSTEDINSTALLS ("TRUSTEDINSTALLS"). PLEASE READ CAREFULLY AND ACCEPT THE TERMS AND CONDITIONS OF THIS AGREEMENT BEFORE USING THE INSTALLER AND/OR THE SOFTWARE (AS DEFINED BELOW). 
+                                    <br/><br/>
+                                    BY CLICKING THE "I AGREE" BUTTON (OR ANY SIMILAR BUTTON WHICH INDICATES YOUR CONSENT TO THESE TERMS), YOU AGREE TO BE BOUND BY THESE TERMS AND ANY USE OF THE INSTALLER AND/OR SOFTWARE SHALL BE MADE IN ACCORDANCE WITH THE TERMS HEREUNDER. YOU WILL NOT BE ABLE TO USE THE INSTALLER AND/OR THE SOFTWARE UNTIL YOU HAVE ACCEPTED THESE TERMS. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE EXIT AND STOP USING THE INSTALLER AND/OR THE SOFTWARE. FURTHERMORE, YOU HEREBY WAIVE ANY RIGHTS OR REQUIREMENTS UNDER ANY LAWS OR REGULATIONS IN ANY JURISDICTION WHICH REQUIRE AN ORIGINAL (NON-ELECTRONIC) SIGNATURE OR DELIVERY OR RETENTION OF NON-ELECTRONIC RECORDS, TO THE EXTENT PERMITTED UNDER APPLICABLE MANDATORY LAW.
+                                <br/><br/>
+                                    THIS IS A LEGALLY BINDING AGREEMENT. THESE TERMS (AS SET FORTH AND DEFINED BELOW) CONSTITUTE THE COMPLETE AND EXCLUSIVE AGREEMENT BETWEEN YOU, OR THE COMPANY ON WHOSE BEHALF YOU ARE USING THE INSTALLER AND/OR SOFTWARE, AND TRUSTEDINSTALLS, AND SUPERSEDE ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATION RELATING TO THE SUBJECT MATTER OF THESE TERMS. 
+                                <br/><br/>
+                                    PLEASE BE AWARE THAT MINORS UNDER THE AGE OF 13 ARE NOT ALLOWED TO USE THE INSTALLER OR THE SOFTWARE (AS DEFINED BELOW). 
+                                <br/><br/>
+
+                                    1.	Description of Services; Definitions
+                                <br/><br/>
+                                    1.1.	"Services" means the use of the installer technology and/or the software as may be changed or modified from time to time, all at the sole discretion of TrustedInstalls.
+                                <br/><br/>
+                                    1.2.	"Installer" means the technology used to install the software on the computer as may be changed, upgraded, modified or enhanced from time to time, and include additional or other features, all at the sole discretion of TrustedInstalls.
+                                <br/><br/>
+                                    1.3.	"Software" means the product, game or utility offered.
+                                <br/><br/>
+                                    1.4.	"User", "You", "Your" or "Yours" means an individual or entity that is using the TrustedInstalls Installer. 
+                                <br/><br/>
+                                    1.5.	"Third-Party Content" means any elements, components, technology or other types of content provided by third parties and available for Your use in connection with the Installer.
+<br/><br/>
+                                    2.	Installation Process.
+                                <br/><br/>
+                                    2.1.	Upon clicking the "I AGREE" button (or any similar button which indicates your consent to these terms), TrustedInstalls will provide You with its unique Installer and allow operation of the Installer. 
+                                <br/><br/>
+                                    2.2.	Upon installation of the Software, the Installer shall allow the operation of the product in the User’s computer.
+                                <br/><br/>
+                                    2.3.	Uninstall - You may uninstall the Software at any time and with no limitations, by deleting the program from Your Control panel according to the instruction of third party Software owners. 
+                                <br/><br/>
+                                    2.4.	For avoidance of doubt, the installation, removal and use of the Software shall be at all time at Your own expense, and shall be carried out in accordance with third party Software terms and conditions. For the avoidance of doubt, third party Software owners shall be responsible for any issues relating to the uninstallation of their Software.
+                                <br/><br/>
+                                    2.5.	You hereby acknowledge that You are aware that by downloading, installing and using the Software, You may be exposed to infections by viruses, worms, Trojan horses or other risks with contaminating and destructive properties accessed or made available through computer communications. Notwithstanding the ongoing efforts conducted by TrustedInstalls (from its end) to prevent any of the foregoing risks, TrustedInstalls is neither taking responsibility in connection thereof nor will it be liable for any damage (direct or indirect, of any scope and extent) such risks may cause, and You agree to unconditionally and fully release TrustedInstalls from any claims arising in connection thereto or thereunder. It is expressly agreed that it shall remain at all times Your sole responsibility to take steps to ensure that any information and/or software you may have on Your computer will neither be damaged nor would allow the distribution of any of the foregoing risks to other third parties. You acknowledge that You are aware of security and privacy limitations arising from usage of any kind of services (including the Services) offered over the internet, including but not restricted to limitation of security, privacy and authentication measures. 
+                                <br/><br/>
+                                    3.	License 
+                                <br/><br/>
+                                    3.1.	Subject to your compliance with these Terms (and that the Terms have not been terminated according to Section 6 below), TrustedInstalls hereby grants You, a limited, personal, non-exclusive, non-sub-licensable, non-assignable, royalty-free, worldwide license to use the Installer to download Software (the "License"). The License applies to versions of the Installer that are offered on any supported computer operating system (including servers) and integrated in any compatible internet browsers, including, but not limited to: Internet Explorer, Chrome, Firefox and other supported Internet Browsers. 
+                                <br/><br/>
+                                    3.2.	For avoidance of doubt, this Agreement does not constitute a license to commercially exploit the Software for the purpose of prompting, selling, marketing and distributing third parties commercial products (or any other offering any of the foregoing). Nevertheless, in the event TrustedInstalls has determined, at its own and full discretion, to grant such a license to a certain end user, it may do so without it constituting an injustice by TrustedInstalls or the basis for a claim by other Users.
+                                <br/><br/>
+                                    3.3.	These Terms will also govern any Installer and/or Software upgrades provided by TrustedInstalls, unless such upgrades are accompanied by a separate license, in which case the terms of that license will govern. Notwithstanding the fact that You are not entitled to any technical or customer support under this Agreement, TrustedInstalls may release updates, upgrades or new versions of the Installer and/or the Software (as supplement or replacement thereof). You agree that any access to any components of the Installer granted hereunder will not limit or restrict TrustedInstalls's right to modify or replace such components in future versions of the Installer. The License granted to You pursuant to this Agreement shall be deemed to include such items.
+                                <br/><br/>
+                                    4.	Ownership
+                                <br/><br/>
+                                    4.1.	TrustedInstalls (or its licensors, heirs, successors and assigns, as may be applicable) shall own all right, title and interest in the Installer (including all documentation, compilations, translations, data related or collected by way of the Services on any website, software and other materials related to the Installer, enhancements, improvements or other modifications made to or derived from the Software or the Installer), including, but not limited to, copyrights, patents, trademarks, trade secret rights, logos and any other intellectual property right ("TrustedInstalls IP"), and any of the foregoing shall at all times remain the sole and exclusive property of TrustedInstalls and are protected by applicable intellectual property laws and treaties. You hereby acknowledge that You do not acquire any ownership rights in or to the Installer and/or any source in connection with the Installer and/or the TrustedInstalls IP and You shall not attempt to break the encryption or other security mechanisms used by TrustedInstalls in relation to the above. All rights not expressly granted to You in this Agreement are reserved by TrustedInstalls. 
+                                <br/><br/>
+                                    4.2.	The Software is the owned by third parties and not TrustedInstalls. By accepting this EULA, You are also accepting the additional terms and conditions with respect to the Software ("Software End User License(s)"), if any, forth herein. Notwithstanding anything contained herein to the contrary, You shall not have rights with respect to the Software and/or any source in connection with the Software unless stated otherwise in the Software End User License(s).
+<br/><br/>
+                                    4.3.	TrustedInstalls shall not be liable for any third party's use or misuse of the Installer and/or the Software, including but not limited to a third party carrier or application owner uploading and or otherwise displaying on or to the Installer and/or the Software, content which violates and/or infringes upon and/or constitutes unauthorized use of a third party's copyright and/or intellectual property rights ("Infringing Content"). If You encounter Infringing Content on the Installer and/or the Software, You are required to immediately report it to TrustedInstalls at ______________. TrustedInstalls reserves the right to remove such Infringing Content from the Installer and/or the Software immediately.
+
+                                <br/><br/>
+
+                                    5.	License Restrictions 
+                                <br/><br/>
+                                    5.1.	You hereby agree that during the period of this Agreement and thereafter (without limitation), You shall not modify, change, supplement, alter and/or amend the Installer and/or the Software. You may only use the Installer and Software, subject to (a) the terms and conditions of these Terms; and (b) the terms and conditions of the Software End User License(s). You may not: (i) decompile, reverse engineer, disassemble or otherwise reduce the Installer and/or Software or any portion of the Installer and/or Software; (ii) remove or alter any trademark, logo, copyright or other intellectual property notice in or on the Installer and/or Software (including that of TrustedInstalls or any portion thereof); (iii) commercially distribute, network, rent, lend, loan, market, sub-license, resell or otherwise transfer the Installer and/or Software or any portion thereof; or, (iv) take or perform any other deeds or actions that may interfere or alter the intended purpose, features and usages of the Installer and/or Software. You may not make any use of the Installer in whole or in part that is not expressly permitted by these Terms.
+ <br/><br/>
+                                    5.2.	You acknowledge and understand that TrustedInstalls may modify the functionality of the Installer or the components thereof at any time, and any third party that provides Third-Party Content contained in the Software may modify the functionality of such Software. Such updates may occur automatically or after prior notice to Users and may occur all at once or over multiple sessions/over a period of time.
+                                <br/><br/>
+                               <br/><br/>     5.3.	You acknowledge and agree that during installation, You may be prompted by the Installer or requested by TrustedInstalls to apply changes to your server and/or browswer settings. Such changes may be approved by You in advance and can be reconfigured by You at any time from the configuration options available in Your server operating systems. Such changes may include the following: 
+                                  <br/>   5.3.1.	Changing browser and/or browser home page;
+                                  <br/>   5.3.2.	Installing browser add-ons and extensions;
+                                  <br/>   5.3.3.	Change of browser default search;
+                                  <br/>   5.3.4.	Adding toolbars;
+                                   <br/>  5.3.5.	Offering third-party software.
+                                <br/> <br/> 
+                                    5.4.	As a condition of use, you hereby acknowledge and agree not to use the Services, Installer and/or Software for any purpose that is unlawful or prohibited by these Terms, or any other purpose not reasonably intended by TrustedInstalls. To the foregoing extent you hereby agree not to use the Services for the following purposes (deemed as example and not limiting their scope in any way), to the extent applicable through the Installer and/or Software or as may become available in the future:
+ <br/> <br/> 
+                            <br/>         5.4.1.	to abuse, harass, threaten, impersonate or intimidate other TrustedInstalls Users or any third party; 
+                             <br/>        5.4.2.	in any manner that is infringing, libelous, defamatory, obscene, pornographic, abusive, offensive or otherwise violates any law or right of any third party;
+                             <br/>        5.4.3.	for any illegal or unauthorized purpose. You agree to comply with all local and state laws regarding online conduct and acceptable content;
+                            <br/>         5.4.4.	to create or submit unwanted email ("SPAM") to any other TrustedInstalls Users or any URL;
+                             <br/>        5.4.5.	to violate any laws in Your jurisdiction (including but not limited to copyright laws); and
+                            <br/>         5.4.6.	to interfere or attempt to interfere with the proper working of TrustedInstalls or any activities conducted by TrustedInstalls.
+<br/> <br/> 
+                                    6.	Term
+                                <br/>     6.1.	These Terms shall continue to be in effect perpetually, unless terminated earlier pursuant to the provisions herein. You may terminate these Terms at any time by permanently deleting from Your systems (including without limitation your computer) and/or destroying all copies of the Software in Your possession and any media associated with the Installer. TrustedInstalls may terminate the License, at any time without prior notice to its Users, for the breach any of these Terms. By accepting this Agreement You agree that TrustedInstalls is permitted to limit, deny or cancel some or all the Installer's functionality at any time, without prior notice.
+<br/> <br/> 
+                                    All provisions of these Terms relating to "OWNERSHIP", "DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY", "PRIVACY AND LEGAL RIGHTS" and "MISCELLANEOUS" shall survive the termination of these Terms.
+                                <br/> <br/> 
+                                 <br/>    7.	Disclaimer of Warranty and Limitation of Liability 
+                                <br/> <br/> 
+                                    7.1.	THE INSTALLER AND/OR THE SOFTWARE ARE PROVIDED "AS IS" AND YOU EXPRESSLY AGREE TO USE IT AT YOUR OWN RISK. TO THE EXTENT PERMITTED BY LAW, TRUSTEDINSTALLS AND ITS LICENSORS, HEIRS, SUCCESSORS AND ASSIGNS HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, IS FREE OF DEFECTS OR ERRORS, OR MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE INSTALLER AND/OR THE SOFTWARE FOR YOUR USE AND AS TO THE QUALITY AND PERFORMANCE OF THE INSTALLER AND/OR THE SOFTWARE. NO ORAL OR WRITTEN INFORMATION OR ADVICE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. TRUSTEDINSTALLS DOES NOT WARRANT OR GUARANTEE THAT THE FUNCTIONS OR SERVICES PERFORMED BY TRUSTEDINSTALLS WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS IN THE INSTALLER AND/OR THE SOFTWARE WILL BE CORRECTED, AND THE SERVICES ARE PROVIDED ON AN "AS AVAILABLE BASIS".
+                                <br/> <br/> 
+                                    7.2.	IN NO EVENT WILL TRUSTEDINSTALLS, ITS PARENT COMPANIES AND SUBSIDIARIES AND THEIR DIRECTORS, DISTRIBUTES, LICENSORS, CONTRIBUTORS, EMPLOYEES AND AGENTS (COLLECTIVELY, THE "TRUSTEDINSTALLS GROUP"), BE LIABLE FOR ANY COST OR FEES (INCLUDING REASONABLE ATTORNEYS' FEES) AND ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, INCIDENTAL DAMAGES, ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SOFTWARE OR THE INSTALLER OR RELATED DOCUMENTATION, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, LOSS OF PROFITS, WORK STOPPAGE, LOST SAVINGS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR COMPUTER FAILURE OR MALFUNCTION AND ANY CLAIM OR DEMAND MADE BY ANY THIRD PARTY IN THAT RESPECT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. 
+                                <br/> <br/> 
+                                    7.3.	FOR THE AVOIDANCE OF DOUBT, TRUSTEDINSTALLS IS NOT THE OWNER OF THE SOFTWARE BUT RATHER THE SOFTWARE IS BEING PROVIDED TO YOU AS  THIRD PARTY CONTENT, THEREFORE, YOU HEREBY ACKNOWLEDGE AND AGREE THAT THE TRUSTEDINSTALLS GROUP WILL HAVE NO LIABILITY IN CONNECTION WITH OR ARISING FROM YOUR USE OF THE SOFTWARE. YOUR ONLY RIGHT OR REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH THE SOFTWARE IS TO: (1) UN-INSTALL AND CEASE USE OF THE SOFTWARE AND/OR THE INSTALLER; AND (2) CONTACT DIRECTLY THE OWNER OF THE SOFTWARE.
+<br/> <br/> 
+                   8.	Indemnification 
+<br/> <br/> 
+                                    8.1.	You hereby agree, at Your own expense, to indemnify, defend and hold harmless TrustedInstalls, its Affiliates, and their respective employees, officers, directors, representatives and agents, and the respective successors and assigns of each of the foregoing (collectively, the "TrustedInstalls Indemnified Parties"), from and against any loss, liability, judgment, penalty, damage or expense (including reasonable expenses of investigation and reasonable attorneys' fees and costs) incurred or suffered by any TrustedInstalls Indemnified Parties resulting from, arising out of, or in connection with or otherwise with respect to any third-party claim, suit, action, or other proceeding brought against any TrustedInstalls Indemnified Parties that is based on, arises from, alleges or relates to: (a) Your use of the Software or Installer that: (i) infringe any TrustedInstalls intellectual property rights; (ii) breach any duty toward, or rights of, any third party, including rights of publicity and/or privacy; or (iii) are false, deceptive, misleading, unethical, defamatory, libelous, or threatening; (b) Your breach or alleged breach of any representation or warranty made by You to TrustedInstalls in this Agreement; (c) Your gross negligence or willful misconduct, or the infringement of any third party's intellectual property rights while exercising its rights and obligations to TrustedInstalls under this Agreement.
+                                <br/> <br/> 
+                                    9.	Privacy and Legal Rights 
+                                <br/> <br/> 
+                                    9.1.	Protecting Your privacy is essential to TrustedInstalls. The TrustedInstalls Installer is constantly monitored to maintain and enforce TrustedInstalls's Privacy Policy. TrustedInstalls contractually prohibits Users from violating the privacy rights of others while utilizing the Installer. You acknowledge that You read and approved the policies of TrustedInstalls below.
+                                <br/> <br/> 
+                                    9.2.	You acknowledge and agree that is contractually prohibited from using the Installer to promote or distribute: illegal materials, materials protected by intellectual property rights, defamatory or racist materials, offensive materials or sexually oriented materials of any kind and/or any content directed at individuals under the age of 13. By using the Installer, You agree and undertake to comply with any legal obligations, including but not limited to, obligations imposed by copyright, secrecy, defamation, decency and privacy laws and any laws regarding online conduct and acceptable content. 
+                                <br/> <br/> 
+                                    9.3.	If You believe that Your legal rights have been infringed upon while using the Installer, we encourage You to report it to us at Your earliest convenience (to report, please send us an email at __________). As soon as we receive Your notification, we will, at our discretion, examine Your complaint and will take the necessary measures to resolve it.
+                                <br/> <br/> 
+                                    10.	Trademarks. 
+                                <br/> <br/> 
+                                    10.1.	TrustedInstalls, and other TrustedInstalls marks, graphics, logos, designs, page headers, button icons, scripts, and service names comprise registered and unregistered trademarks, service marks and trade names of TrustedInstalls anywhere in the world (the "TrustedInstalls Marks"). Other trademarks, service marks and trade names used on the Installer are the property of their respective owners. You hereby acknowledge and agree not to display or use in any manner the TrustedInstalls Marks without TrustedInstalls's prior written consent and/or any third party's marks without their respective owners' prior written consent.
+                                <br/> <br/> 
+                                    11.	User's Responsibilities
+                                <br/> <br/> 
+                                    11.1.	You shall be responsible for obtaining the system requirement to install the Software and use the Installer.
+                                <br/> <br/> 
+                                    11.2.	You shall be responsible for providing and maintaining all personal computer and communications equipment and Internet access accounts necessary to gain access to the Installer.
+                                <br/> <br/> 
+                                    You hereby agree and undertake to inform TrustedInstalls of any apparent breaches of security, such as loss, theft, or unauthorized disclosure or use of other Users' information ("Security Breaches"), by notifying TrustedInstalls via electronic or conventional mail at ___________ or ______________.  For the avoidance of doubt, TrustedInstalls shall make commercially reasonable efforts to prevent and address Security Breaches, but shall not be liable for any damage and/or loss resulting from Security Breaches.
+                                <br/> <br/> 
+                                    11.3.	Any action by User that, in TrustedInstalls's sole opinion and discretion, restricts or inhibits other Users from using and enjoying the TrustedInstalls Services is strictly prohibited.
+                                <br/> <br/> 
+                                    12.	Miscellaneous
+                                 <br/>   12.1.	Entire Agreement. These Terms constitute the entire agreement between TrustedInstalls and You concerning the subject matter hereof. TrustedInstalls reserves the right, at its sole discretion, to update or revise these Terms at any time without prior notice. However, a notice may be posted on the website: ,__________________ in order to notify the Users that the Terms have been modified.
+                                <br/> <br/> 
+                                    12.2.	Exclusive Jurisdiction. These Terms shall be governed by and interpreted under the laws of the State of Israel, without regard to conflicts of provisions. All actions relating to these Terms and the Installer shall be in the exclusive jurisdiction of the competent courts in Tel Aviv, Israel.
+ <br/><br/>
+                                    12.3.	No Waiver. The failure of either party to enforce any rights granted hereunder or to take action against the other party in the event of any breach hereunder shall not be deemed a waiver by that party as to subsequent enforcement of rights or subsequent actions in the event of future breaches.
+  <br/><br/>
+                                    12.4.	Severability. If for any reason a court of competent jurisdiction finds any provision of these Terms or portion thereof, to be unenforceable, that provision of these Terms shall be enforced to the maximum extent permissible so as to affect the intent of the parties to this Agreement, and the remainder of these Terms shall continue in full force and effect.
+                                 <br/><br/>
+                                    12.5.	Language. Except as required by law, the controlling language of these Terms is English.
+  <br/><br/>
+                                    12.6.	Assignment. You may not assign Your rights under this Agreement to any party without TrustedInstalls's prior written consent.
+                                 <br/><br/>
+                                    12.7.	These Terms shall be binding upon and inure to the benefit of each of the parties to this Agreement and their respective heirs, successors and assigns.
+                                 <br/><br/>
+                                    Please check these Terms periodically for changes. Your continued use of the Installer and the Software following the posting of any changes to these Terms, or notification to You of any such changes, constitutes acceptance of those changes.
+  <br/><br/>
+                                    YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS AND AGREE TO BE BOUND BY THEM AND THAT YOU UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN.
+  <br/><br/>
+                                    BY CLICKING ON THE "I AGREE" BUTTON AND/OR CONTINUING TO INSTALL OR USE THE INSTALLER AND/OR THE SOFTWARE, YOU EXPRESSLY CONSENT TO BE BOUND BY THESE TERMS. 
+                                    <br/>13.	Questions or Comments.
+                                   <br/> Any questions or comments regarding, or problems with, the Services, the Software or the Installer should be sent to the TrustedInstalls Support Team at __________________.
+
+
+
+ <br/><br/> <br/><br/>
+                                    Privacy Policy
+ <br/><br/>
+                                   <br/> Last Updated:  November__, 2014
+                                   <br/> Here at TrustedInstalls, we are committed to safeguarding your privacy. Before submitting any information in order to use the Installer and/or the Services, we encourage you to read the following Privacy Policy and learn how we will treat your personal information. 
+                                    <br/>By using any part of the TrustedInstalls Installer and/or Services, you consent to the collection and use of your personal information as outlined in this Privacy Policy and to the collection, processing and maintenance of this information in any applicable countries. 
+                                   <br/> 1.	Collecting your Personal Information
+                                   <br/> 1.1.	Before using the Installer and/or using the Services, you will be asked to provide us with information that personally identifies you or allows us to contact you (hereinafter: “Personal Information”). Generally, this information will be requested upon registering and creating your account. This Personal Information may vary but will typically include your first and last name, e-mail address, address (country, city) and phone number. You will also be requested to provide a unique member name and password to access and use certain features of the Installer and/or Services. 
+                                   <br/> 1.2.	TrustedInstalls may also collect non-personally identifiable information, including traffic statistics regarding page views, browsing details and approximate geo-location for the purpose of gathering statistics; other technical information, including users’ Internet Protocol (IP) address and standard web log information; and supplemental information from third parties. 
+                                    <br/>2.	Use of your Personal Information
+                                   <br/> 2.1.	First, TrustedInstalls may use your Personal Information to allow you to use the Installer and/or provide you with the Services you have requested. Second, TrustedInstalls may also use your Personal Information to respond to specific inquiries made by you, to prevent potentially prohibited or illegal activities, and enforce our EULA; and to customize, measure, and improve our services, content and layout. Finally, TrustedInstalls may use your Personal Information to notify you about special offers, products, services, and information that we think may be of interest to you. You can opt-out of receiving commercial e-mail from us at any time. 
+                                   <br/> 2.2.	TrustedInstalls will disclose your Personal Information, without notice, only if required to do so by law or in the good faith belief that such action is necessary in order to: (a) conform to the edicts of the law or comply with legal process served on TrustedInstalls or the Installer/Services; (b) protect and defend the rights or property of TrustedInstalls; (c) act in urgent circumstances to protect the personal safety of users of TrustedInstalls, its Installer and/or Services, or the public, and (d) provide you with certain services or products of TrustedInstalls or any other third party, whether for commercial or other purposes.
+                                    <br/>3.	Control of your Personal Information
+                                   <br/> 3.1.	From time to time, TrustedInstalls may share personally identifiable information with third parties we have engaged to perform certain services in connection with the operation of certain aspects of the TrustedInstalls Installer and/or Services, including customizing, measure and improving our services, content, and layout.
+                                   <br/> 3.2.	When you register, or otherwise give us Personal Information, TrustedInstalls will not share your Personal Information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+                                   <br/> 4.	Security of your Personal Information
+                                   <br/> 4.1.	TrustedInstalls strictly protects the security of your Personal Information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+                                   <br/> 4.2.	Your personal information is never shared outside the company without your permission, except under the conditions explained above. TrustedInstalls stores your Personal Information in password-controlled servers with limited access. 
+                                   <br/> 5.	Use of Cookies 
+                                   <br/> TrustedInstalls uses “cookie” technology and users’ IP addresses to customize and enhance your online experience using the Services. Cookies are pieces of information transferred to your hard drive when you use our Installer and/or Services that automatically identify your browser to our server whenever you interact with our Installer. Such technology is a common feature of many installers and is necessary in order for certain features of our Installer and/or Services to function properly or in order to provide an online service to you. You may customize the browser settings of your computer to notify you when a browser cookie is sent or to refuse browser cookies altogether. Please check your browser for instructions on how to make these adjustments. 
+                                  <br/>  6.	Changes to this Policy
+                                  <br/> TrustedInstalls will occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” date at the top of the Privacy Policy. If we make any material changes to this Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Your continued use of TrustedInstalls’s Installer and/or Services following the posting of changes to this Policy will signal your acceptance of such changes. 
+                                   <br/> 7.	Contact
+                                   <br/> If you have any questions, comments, or requests regarding this Policy or the information practices of TrustedInstalls, please contact us by e-mail at _______________.
+
+                                <br/><br/>
+                            </div>
+                            <div id="menu" style="width:100%; font-size: 12px; margin-top: 7px;">
+                                <div>
+                                    <div id="menu1" style="display: none;">
+                                        <div style="float: left; margin-bottom: 5px; margin-left: 0px; margin-right: 5px;">
+                                            <input type="radio" id="quick" name="type" checked="checked" value="quick" onclick="OnQuick()" style="float: left;"/>                                        
+                                            <div style="margin-top: 3px; float: left;"><label >Express Install (Recommended)</label></div>
+                                        </div>
+                                        <div style="float: left; margin-bottom: 5px; margin-left: 5px;">
+                                            <input type="radio" id="custom" name="type" value="custom;" style="color: #808080;" onclick="OnCustom()" style="float: left;"/>
+                                            <div style="margin-top: 3px; float: left;"><label id="customlabel" style="color: #808080;">Custom Install (Advanced) </label></div>
+                                        </div>
+                                    </div>
+                                    <div style="margin-top: 0px; width: 100%">                                        
+                                        <div id="quicklabel" style="margin-left:5px; display = none;">                                           
+                                        </div>                                        
+                                        <div id="left" class="productsCustomHide" style="position:relative; float: left;  width: 170px;">
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro1" checked="checked" style="display: none;"/>
+                                                </div>                                       
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro1label" style="display: none;">Plus-HD</label>                                   
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none; margin-bottom: 1px; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro3" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro3label" style="display: none;">SavePass</label>
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none;  width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro5" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                     <label id="pro5label" style="display: none;">AirGlobe</label>
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro7" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro7label" style="display: none;"></label>
+                                                </div> 
+                                            </div>
+                                            <div class="product" style="display: none;  width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro9" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro9label" style="display: none;"></label>
+                                                </div> 
+                                            </div>
+                                        </div>   
+                                        <div id="right" class="productsCustomHide" style="position:relative; float: left; width: 170px;">
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro2" checked="checked" style="display: none;"/>
+                                                </div>                                       
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro2label" style="display: none;">Opera Browser</label>                                   
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro4" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro4label" style="display: none;">YouTube Downloader</label>
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro6" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                     <label id="pro6label" style="display: none;"></label>
+                                                </div>
+                                            </div>
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro8" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro8label" style="display: none;"></label>
+                                                </div> 
+                                            </div>
+                                            <div class="product" style="display: none; width: 150px;">
+                                                <div style="float: left;">
+                                                    <input type="checkbox" id="pro10" checked="checked" style="display: none;"/>
+                                                </div>
+                                                <div style="float: left; margin-top: 3px;">
+                                                    <label id="pro10label" style="display: none;"></label>
+                                                </div> 
+                                            </div>
+                                        </div>                                                          
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div id="acceptedLabel" style="position:absolute; font-size:10px; bottom: 45px; left: 175px; font-family:Arial;  line-height:11px; padding-right: 7px;">
+                    By clicking "Accept" you confirm that you have read and agree to <a href="http://www.hq-videopro.com/terms_of_use.html" target="_blank">Plus-HD</a>, <a href="http://www.opera.com/ru/terms" target="_blank">Opera Browser</a>, <a href="http://pinwid.com/terms.html" target="_blank">SavePass</a>, <a href="http://www.terms-of-service.org/ytd/terms/?l=1,4,5" target="_blank">YouTube Downloader</a>, <a href="http://airglobeapp.com/Terms " target="_blank">AirGlobe</a>. 
+                    
+                </div>
+
+                <div style="position:absolute; top:100px; background:url('http://static.revenyou.com/offers/images/Theme12/button_over.png');
+                        width:0px; height:0px;">
+                </div>
+            </div>
+            <!--bottom-->
+            <div class="divBottom">
+                <img id="imgBottomLine" src="http://static.revenyou.com/offers/images/Theme12/bottomLine.jpg" alt='' />
+                <div style="width:100%;">
+                    <div style=" float:right; direction:rtl;">
+                        <img id="imgNextCase" src="http://static.revenyou.com/offers/images/Theme12/nextCase.jpg" alt='' />
+                        <div id="next" onclick="OnNext();" class="divOnNext">
+                            <div id="idAccept" class="divAccept">
+                                Accept
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div id="popupMsg" style="visibility: hidden; position: absolute; left: 15%; top: 105px; border: 2px rgb(165,191,218) solid; font-size: 12px; width:400px; font-family:Arial;">
+            <div style="background-color: rgb(165,191,218); width: 100%; height: 25px;">
+                <div style="margin-left: 5px; margin-top:4px;">PRODUCT_NAME</div>
+            </div>
+            <div style="background-color: rgb(240,240,240); height: 150px;">
+                <div style="margin-left:13px; margin-top:20px; padding-right: 5px;">
+                    <label id="popuplabel" style="margin-bottom: 9px;"></label>
+                    <div style="margin-top: 4px;"><label id="popupacceptlabel"></label></div>
+                </div>
+                <div>
+                    <div id="onokbutton"  style="cursor:pointer;">
+                        <img id="onokbutton"  style="position: absolute; left: 180px; top: 142px; cursor:pointer;" 
+                              src="http://static.revenyou.com/offers/images/Theme12/button.png" alt='' />
+
+                        <div id="onokbuttonlabel" style="position: absolute; left: 178px; top: 147px; font-family:Arial halvetica; width:90px; cursor:pointer;" onclick="OnOk();">
+                           <div style="text-align:center; font-family:Arial halvetica; vertical-align:middle;"> Ok </div>
+                        </div>
+                    </div>
+
+                    <div id="cancelbutton" onclick="OnPopupCancel();">
+                        <img style="position: absolute; left: 290px; top: 142px;" src="http://static.revenyou.com/offers/images/Theme12/button.png" alt='' />
+                        <div id="cancelbuttonlabel" style="position: absolute; left: 314px; top: 147px; font-family:Arial halvetica;">
+                            Cancel
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <script type="text/javascript">
+            var pageHeight = document.getElementById('page').offsetHeight;
+            var total = 0;
+            var elm;
+            var cmd = "";
+            var rejected = "";
+            var counter = 0;
+            var allProducts = false;
+            var quick = document.getElementById("quick");
+            var custom = document.getElementById("custom");
+            var quicklabel = document.getElementById("quicklabel");
+            var acceptedLabel = document.getElementById("acceptedLabel");
+            var eula = document.getElementById("eula");
+            eula.style.display = "";
+            var menu = document.getElementById("menu");
+
+            var pro1 = document.getElementById("pro1");
+            var pro2 = document.getElementById("pro2");
+            var pro3 = document.getElementById("pro3");
+            var pro4 = document.getElementById("pro4");
+            var pro5 = document.getElementById("pro5");
+            var pro6 = document.getElementById("pro6");
+            var pro7 = document.getElementById("pro7");
+            var pro8 = document.getElementById("pro8");
+            var pro9 = document.getElementById("pro9");
+            var pro10 = document.getElementById("pro10");
+
+            var pro1label = document.getElementById("pro1label");
+            var pro2label = document.getElementById("pro2label");
+            var pro3label = document.getElementById("pro3label");
+            var pro4label = document.getElementById("pro4label");
+            var pro5label = document.getElementById("pro5label");
+            var pro6label = document.getElementById("pro6label");
+            var pro7label = document.getElementById("pro7label");
+            var pro8label = document.getElementById("pro8label");
+            var pro9label = document.getElementById("pro9label");
+            var pro10label = document.getElementById("pro10label");
+
+            var okbuttoncounter = 0;
+            var cancelbuttoncounter = 0;
+            var nextbuttoncounter = 0;
+
+            document.getElementById('divMiddle').height = pageHeight - 50;
+            document.getElementById('imMiddleBG').height = pageHeight - 50;
+
+            function defaultKey(evt) {
+                var evt = (evt) ? evt : ((event) ? event : null);
+                if (evt.keyCode == 13)
+                    OnNext();
+            }
+
+            document.onkeypress = defaultKey;
+
+            function getUrlParameterByName(name) {
+                name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"), results = regex.exec(location.search);
+                return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+
+            function productCounter() {
+                total = 0;
+                if (pro1label.innerText != "") {
+                    total++;
+                }
+
+                if (pro2label.innerText != "") {
+                    total++;
+                }
+
+                if (pro3label.innerText != "") {
+                    total++;
+                }
+
+                if (pro4label.innerText != "") {
+                    total++;
+                }
+
+                if (pro5label.innerText != "") {
+                    total++;
+                }
+
+                if (pro6label.innerText != "") {
+                    total++;
+                }
+
+                if (pro7label.innerText != "") {
+                    total++;
+                }
+
+                if (pro8label.innerText != "") {
+                    total++;
+                }
+
+                if (pro9label.innerText != "") {
+                    total++;
+                }
+
+                if (pro10label.innerText != "") {
+                    total++;
+                }
+
+                return total;
+            }
+
+            function getElementsByClassName(searchClass, node, tag) {
+                var classElements = new Array();
+                if (node == null)
+                    node = document;
+                if (tag == null)
+                    tag = '*';
+                var els = node.getElementsByTagName(tag);
+                var elsLen = els.length;
+                var pattern = new RegExp("(^|\\s)" + searchClass + "(\\s|$)");
+                for (i = 0, j = 0; i < elsLen; i++) {
+                    if (pattern.test(els[i].className)) {
+                        classElements[j] = els[i];
+                        j++;
+                    }
+                }
+                return classElements;
+            }
+
+            (function () {
+                var tempProdName = "";
+                
+
+                var elems = getElementsByClassName('product', document.body, '*');
+                var count = productCounter();
+                if (count == 1) {
+                    var menu = document.getElementById("menu");
+                    var productDescription = document.getElementById("productDescription");
+                    menu.style.display = "none";
+                    productDescription.style.display = "block";
+                    productDescription.style.visibility = "visible";
+                    quicklabel.innerHTML = "";
+                    quicklabel.style.display = "none";
+                    document.getElementById('eula').style.height = 180 + "px";
+                    document.getElementById('acceptedLabel').style.bottom = 53 + "px";
+                    document.getElementById("acceptedLabel").innerHTML += "<br/><div id=\"Div2\" onclick=\"OnCancel();\" style=\"display: none; cursor:pointer; font-family:Arial helvetica; font-size:11px; position:absolute;\">  Decline </div>";
+                    document.getElementById("Div2").style.display = "inline-block";
+                }
+                else {
+                    var pids = '-' + getUrlParameterByName('pids') + '-';
+
+                    if (pids.indexOf("-24443-") != -1 || pids.indexOf("-24556-") != -1) {
+                        quicklabel.innerHTML = "Bundled with Cyti Web a set of browser apps for search, shopping and reviews. Includes advertising, data collection and use, and new apps auto-enabled. Also you'll get the following apps for free: ";
+                        document.getElementById('eula').style.height = 123 + "px";
+                    
+                    } else {
+                        quicklabel.innerHTML = "Thank you for considering the installation of the following products. With the Express option you'll get the following apps for free: ";
+                        document.getElementById('eula').style.height = 140 + "px";
+                    }
+                    
+                    document.getElementById("quicklabel").style.display = "block";
+                    document.getElementById("menu1").style.display = "inline-block";
+                    for (var i = 0; i < count; i++) {
+                        elems[i].style.color = 'gray';
+                        tempProdName = "pro" + (i + 1) + "label";
+                        var tempProd = document.getElementById(tempProdName);
+                        if (tempProd.innerHTML != "") {
+                            elems[i].style.display = 'inline-block';
+                            if (i == count - 1) {
+                                quicklabel.innerHTML = quicklabel.innerHTML.substring(0, quicklabel.innerHTML.length - 2);
+                                quicklabel.innerHTML += ' & ' + tempProd.innerHTML + '.';
+                            } else {
+                                quicklabel.innerHTML += ' ' + tempProd.innerHTML + ', ';
+                            }
+                        }
+                        else {
+                            elems[i].style.display = "none";
+                            elems[i].style.visibility = "collapse";
+                        }
+                    }
+                }
+            })();
+
+
+            function OnQuick() {
+
+                quick.checked = true;
+                custom.checked = false;
+                document.getElementById("custom").style.color = "gray";
+                document.getElementById("customlabel").style.color = "gray";
+                eula.style.display = "";
+                quicklabel.style.display = "block";
+
+                pro1.style.display = "none";
+                pro2.style.display = "none";
+                pro3.style.display = "none";
+                pro4.style.display = "none";
+                pro5.style.display = "none";
+                pro6.style.display = "none";
+                pro7.style.display = "none";
+                pro8.style.display = "none";
+                pro9.style.display = "none";
+                pro10.style.display = "none";
+                pro1label.style.display = "none";
+                pro2label.style.display = "none";
+                pro3label.style.display = "none";
+                pro4label.style.display = "none";
+                pro5label.style.display = "none";
+                pro6label.style.display = "none";
+                pro7label.style.display = "none";
+                pro8label.style.display = "none";
+                pro9label.style.display = "none";
+                pro10label.style.display = "none";
+            }
+
+            function OnCustom() {
+
+                quick.checked = false;
+                custom.disabled = false;
+                custom.checked = true;
+                document.getElementById("custom").style.color = "black";
+                document.getElementById("customlabel").style.color = "black";
+                document.getElementById("menu").style.top = "-6px";
+                document.getElementById("menu1").style.top = "-3px";
+                document.getElementById("left").style.top = "1px";
+                document.getElementById("left").style.color = "gray";
+                document.getElementById("right").style.top = "1px";
+                document.getElementById("right").style.color = "gray";
+                eula.style.display = "none";
+
+                var elems = getElementsByClassName('product', document.body, '*');
+                var count = productCounter();
+                var tempProdName = "";
+                for (var i = 0; i < count; i++) {
+                    tempProdName = "pro" + (i + 1) + "label";
+                    var tempProd = document.getElementById(tempProdName);
+                    if (tempProd.innerHTML != "") {
+
+                        for (var j = 0; j < 10; j++) {
+                            if (elems[j].innerHTML.indexOf(tempProdName) > -1) {
+                                elems[j].style.display = 'inline-block';
+                                elems[j].style.visibility = "visible";
+                                break;
+                            }
+                        }
+                        tempProd.style.display = 'inline-block';
+                        tempProd.style.visibility = "visible";
+                        tempProdName = "pro" + (i + 1);
+                        document.getElementById(tempProdName).style.display = 'inline-block';
+                        document.getElementById(tempProdName).style.visibility = "visible";
+                    }
+                    else {
+                        elems[i].style.display = "none";
+                        elems[i].style.visibility = "collapse";
+                    }
+                }
+            }
+
+            function OnCancel() {
+                if (getUrlParameterByName('external') == '0') {
+                    window.location = "http://oncancel?cmd=";
+                } else {
+                    window.external.OnCancel('');
+                }
+            }
+
+            function collectDataForNextStep() {
+                var isfirst = true;
+                cmd = "";
+                counter = 0;
+                if (quick.checked == true && quick.disabled == false) {
+                    if (pro1label.innerText != "") {
+                        cmd += "VirtualOfferCmd:13298()-";
+                    }
+
+                    if (pro2label.innerText != "") {
+                        cmd += "VirtualOfferCmd:10700()-";
+                    }
+
+                    if (pro3label.innerText != "") {
+                        cmd += "VirtualOfferCmd:12929()-";
+                    }
+
+                    if (pro4label.innerText != "") {
+                        cmd += "VirtualOfferCmd:20458()-";
+                    }
+
+                    if (pro5label.innerText != "") {
+                        cmd += "VirtualOfferCmd:26068()-";
+                    }
+
+                    if (pro6label.innerText != "") {
+                        cmd += "VirtualOfferCmd:()-";
+                    }
+
+                    if (pro7label.innerText != "") {
+                        cmd += "VirtualOfferCmd:()-";
+                    }
+
+                    if (pro8label.innerText != "") {
+                        cmd += "VirtualOfferCmd:()-";
+                    }
+
+                    if (pro9label.innerText != "") {
+                        cmd += "VirtualOfferCmd:()-";
+                    }
+
+                    if (pro10label.innerText != "") {
+                        cmd += "VirtualOfferCmd:()-";
+                    }
+                }
+                else {
+
+                    if (pro1label.innerText != "") {
+                        if (pro1.checked == true) {
+                            cmd += "VirtualOfferCmd:13298()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro1label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro1label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro2label.innerText != "") {
+                        if (pro2.checked == true) {
+                            cmd += "VirtualOfferCmd:10700()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro2label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro2label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro3label.innerText != "") {
+                        if (pro3.checked == true) {
+                            cmd += "VirtualOfferCmd:12929()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro3label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro3label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro4label.innerText != "") {
+                        if (pro4.checked == true) {
+                            cmd += "VirtualOfferCmd:20458()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro4label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro4label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro5label.innerText != "") {
+                        if (pro5.checked == true) {
+                            cmd += "VirtualOfferCmd:26068()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro5label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro5label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro6label.innerText != "") {
+                        if (pro6.checked == true) {
+                            cmd += "VirtualOfferCmd:()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro6label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro6label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro7label.innerText != "") {
+                        if (pro7.checked == true) {
+                            cmd += "VirtualOfferCmd:()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro7label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro7label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro8label.innerText != "") {
+                        if (pro8.checked == true) {
+                            cmd += "VirtualOfferCmd:()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro8label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro8label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro9label.innerText != "") {
+                        if (pro9.checked == true) {
+                            cmd += "VirtualOfferCmd:()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro9label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro9label.innerText;
+                            }
+                        }
+                    }
+
+                    if (pro10label.innerText != "") {
+                        if (pro10.checked == true) {
+                            cmd += "VirtualOfferCmd:()-";
+                            counter++;
+                        }
+                        else {
+                            if (isfirst) {
+                                isfirst = false;
+                                rejected += pro10label.innerText;
+                            }
+                            else {
+                                rejected += ", " + pro10label.innerText;
+                            }
+                        }
+                    }
+                }
+
+                if (quick.checked == true && quick.disabled == false || counter == productCounter()) {
+
+                    allProducts = true;
+                }
+                else {
+                    allProducts = false;
+                }
+
+                return cmd;
+            }
+
+            function disableButtons() {
+
+                document.getElementById("cancelbuttonlabel").style.color = "gray";
+                document.getElementById("onokbuttonlabel").style.color = "gray";
+                document.getElementById("cancelbutton").disabled = true;
+                document.getElementById("onokbutton").disabled = true;
+                document.getElementById("idAccept").disabled = true;
+                document.getElementById("idAccept").style.color = "gray";
+            }
+
+            function OnPopupCancel() {
+                if (cancelbuttoncounter == 0) {
+                    document.getElementById("cancelbuttonlabel").style.color = "gray";
+                    document.getElementById("onokbuttonlabel").style.color = "gray";
+                    document.getElementById("cancelbutton").disabled = true;
+                    document.getElementById("onokbutton").disabled = true;
+                    document.getElementById("idAccept").disabled = true;
+                    document.getElementById("idAccept").style.color = "gray";
+
+                    elm.style.visibility = "hidden";
+                    elm.style.display = "none";
+                    if (cmd == "") {
+                        OnCancel();
+                    }
+                    else {
+                        cmd = cmd.substring(0, cmd.length);
+                        if (getUrlParameterByName('external') == '0') {
+                            window.location = "http://onnext?cmd=" + cmd;
+                        } else {
+                            window.external.OnNext(cmd);
+                        }
+                    }
+                    cancelbuttoncounter++;
+                }
+            }
+
+            function OnOk() {
+                if (okbuttoncounter == 0) {
+                    okbuttoncounter++;
+                    document.getElementById("cancelbuttonlabel").style.color = "gray";
+                    document.getElementById("onokbuttonlabel").style.color = "gray";
+                    document.getElementById("cancelbutton").disabled = true;
+                    document.getElementById("onokbutton").disabled = true;
+                    document.getElementById("idAccept").disabled = true;
+                    document.getElementById("idAccept").style.color = "gray";
+
+                    quick.checked = true;
+                    quick.disabled = false;
+                    cmd = "";
+                    cmd = collectDataForNextStep();
+                    elm = document.getElementById("popupMsg");
+                    elm.style.visibility = "hidden";
+                    elm.style.display = "none";
+                    elm.style.zIndex = "-100000000";
+
+                    if (cmd == "") {
+                        OnCancel();
+                    }
+                    else {
+                        cmd = cmd.substring(0, cmd.length);
+                        if (getUrlParameterByName('external') == '0') {
+                            window.location = "http://onnext?cmd=" + cmd;
+                        } else {
+                            window.external.OnNext(cmd);
+                        }
+                    }
+                }
+
+            }
+
+            function OnNext() {
+                if (nextbuttoncounter == 0) {
+                    nextbuttoncounter++;
+                    elm = document.getElementById("popupMsg");
+                    document.getElementById("idAccept").disabled = true;
+                    document.getElementById("idAccept").style.color = "gray";
+                    if (elm.style.visibility == "hidden") {
+                        cmd = collectDataForNextStep();
+                        if (allProducts == false && custom.checked == true && custom.disabled == false) {
+                            document.getElementById("popuplabel").innerHTML = "You decided to remove the following products: " + rejected + "</br>";
+                            document.getElementById("popupacceptlabel").innerHTML = "This will affect your computer. Click Ok to abort.";
+                            elm = document.getElementById("popupMsg");
+                            elm.style.visibility = "visible";
+                            elm.style.zIndex = "100000000";
+                            elm.style.display = "inline-block";
+                        }
+                        else {
+                            if (cmd == "") {
+                                OnCancel();
+                            }
+                            else {
+                                cmd = cmd.substring(0, cmd.length);
+                                if (getUrlParameterByName('external') == '0') {
+                                    window.location = "http://onnext?cmd=" + cmd;
+                                } else {
+                                    window.external.OnNext(cmd);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

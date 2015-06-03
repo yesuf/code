@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>DUP Main Screen</title> <!-- this is not actually used, but the IDEs complain with no title -->
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta http-equiv="page-enter" content="blendTrans(Duration=.33)" />
+		
+	<link rel="stylesheet" type="text/css" href="styles.css" />
+	<!-- Modified styles for legacy IE systems -->
+	<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="ielegacy.css" />
+	<![endif]-->
+	
+	<script type="text/javascript" src="script.js"></script>
+	<!-- WARNING: only use exact px size units for OS DPI independant sizing (EVEN FONTS!) -->
+</head>
+
+<body>
+	<table id="header">
+		<tr>
+			<td id="headLogoLPad"><!-- space --></td>
+			<td id="headLogo"><!-- space --></td>
+			<td id="headLogoRPad"><!-- space --></td>
+			<td id="headText">Update Package<!-- sample text --></td>
+			<td id="headCloser" class="closer"><a id="btnDupClose" title="Exit Update Package" href="#" /></td>
+		</tr>
+	</table>
+	<table style="height: 35px; width: 100%;"><tr><td><!-- place holder--></td></tr></table>
+
+	<table class="grid">
+		<tr><td class="title"><span id="duptitle" title="DUP Description">Update Package Title<!-- sample text --></span> <a id="lnkDupInfo" href="info.html" title="View Update Details" /></td></tr>
+		<tr><td><span id="dupversion">v1.1 (A02)<!-- sample text --></span> <span id="dupdate">March 26th, 2010<!-- sample text --></span></td></tr>
+		<tr>
+			<td>
+				<table class="choice">
+					<tr>
+						<td class="action">
+							<ul id="btnDupInstall" class="button" onmouseover="javascript:SetBlueHover('btnDupInstall');" onmouseout="javascript:SetBlueNormal('btnDupInstall');">
+								<li id="btnDupInstallLeft" class="blueleft_up" />		
+								<li id="btnDupInstallMid" class="bluemid_up"><a id="btnDupInstallText" title="Start Installer" href="blank.html">Install...</a></li>
+								<li id="btnDupInstallRight" class="blueright_up" />
+							</ul>
+						</td>
+					</tr>
+					<tr><td class="info" id="installInfo">install or update your system with this software.</td></tr>
+					<tr>
+						<td class="action"><a id="btnDupExtract" class="link" href="blank.html" title="Select Path and Extract">Extract... <img src="arrow.png" /></a></td>
+					</tr>
+					<tr>
+						<td id="extractInfo" class="lastinfo">Extract the contents of this package without installing.</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	
+	<table id="footer">
+		<tr style="height: 5px"><td colspan="3"><!-- space --></td></tr>
+		<tr style="height: 100%">
+			<td style="width: 8px;"><!-- space --></td>
+			<td id="footertext">© 2003-2013 Dell Inc. (all rights reserved)<!-- sample text --></td>
+			<td style="width: 8px;"><!-- space --></td>
+		</tr>
+	</table>
+</body>
+
+</html>

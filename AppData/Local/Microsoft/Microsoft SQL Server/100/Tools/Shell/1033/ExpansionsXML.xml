@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SnippetCollection Format="1.0.0"><Language Lang="XML" Guid="{F6819A78-A205-47B5-BE1C-675B3C7F0B8E}">
+		<SnippetDir>
+			<OnOff>On</OnOff>
+			<Installed>true</Installed>
+			<DirPath>%InstallRoot%\xml\%LCID%\Snippets\</DirPath>
+			<LocalizedName>Snippets</LocalizedName>
+			<CodeSnippet><Path TimeStamp="2008-2-23-1-11-14-0">%InstallRoot%\xml\%LCID%\Snippets\Parent.snippet</Path><LocalizedName>Element</LocalizedName><Title>Element</Title><Shortcut>element</Shortcut><Description>XML snippet for new parent element</Description><Author>Microsoft Corporation</Author><SnippetType>Expansion</SnippetType><SnippetType>SurroundsWith</SnippetType></CodeSnippet><CodeSnippet><Path TimeStamp="2008-2-23-1-11-14-0">%InstallRoot%\xml\%LCID%\Snippets\schema.snippet</Path><LocalizedName>Schema</LocalizedName><Title>Schema</Title><Shortcut>schema</Shortcut><Description>Expansion snippet for XSD Schema</Description><Author>Microsoft Corporation</Author><SnippetType>Expansion</SnippetType><SnippetType>SurroundsWith</SnippetType></CodeSnippet><CodeSnippet><Path TimeStamp="2008-2-23-1-11-14-0">%InstallRoot%\xml\%LCID%\Snippets\snippet.snippet</Path><LocalizedName>Snippet</LocalizedName><Title>Snippet</Title><Shortcut>snippet</Shortcut><Description>XML snippet for creating new XML snippets!</Description><Author>Microsoft Corporation</Author><SnippetType>SurroundsWith</SnippetType><SnippetType>Expansion</SnippetType></CodeSnippet></SnippetDir>
+		<SnippetDir><ExistsOnDisk>true</ExistsOnDisk><Installed>false</Installed><DirPath>%MyDocs%\Code Snippets\XML\My Xml Snippets\</DirPath><LocalizedName>My Xml Snippets</LocalizedName></SnippetDir></Language>
+</SnippetCollection>
