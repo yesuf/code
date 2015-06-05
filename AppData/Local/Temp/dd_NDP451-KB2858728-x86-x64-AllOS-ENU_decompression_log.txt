@@ -1,0 +1,20 @@
+[6/1/2015, 15:5:17] === Logging started: 2015/06/01 15:05:17 ===
+[6/1/2015, 15:5:17] Executable: C:\Users\Pc\Downloads\Programs\NDP451-KB2858728-x86-x64-AllOS-ENU.exe v4.5.50938.18408
+[6/1/2015, 15:5:17] --- logging level: standard ---
+[6/1/2015, 15:5:17] Successfully bound to the ClusApi.dll
+[6/1/2015, 15:5:17] Error 0x80070424: Failed to open the current cluster
+[6/1/2015, 15:5:17] Cluster drive map: ''
+[6/1/2015, 15:5:17] Considering drive: 'C:\'...
+[6/1/2015, 15:5:17] Considering drive: 'D:\'...
+[6/1/2015, 15:5:17] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[6/1/2015, 15:5:17] Considering drive: 'E:\'...
+[6/1/2015, 15:5:17] Considering drive: 'F:\'...
+[6/1/2015, 15:5:17] Considering drive: 'G:\'...
+[6/1/2015, 15:5:17] Drive 'G:\' is rejected because of the unknown or unsuitable drive type
+[6/1/2015, 15:5:17] Drive 'C:\' has been selected as the largest fixed drive
+[6/1/2015, 15:5:17] Directory 'C:\634d6ba944d65f15b9fa6021\' has been selected for file extraction
+[6/1/2015, 15:5:17] Extracting files to: C:\634d6ba944d65f15b9fa6021\
+[6/1/2015, 15:5:37] Extraction took 20.639 seconds
+[6/1/2015, 15:5:38] Executing command line: 'C:\634d6ba944d65f15b9fa6021\\Setup.exe   /x86 /x64 /redist'
+[6/1/2015, 15:6:2] Exiting with result code: 0x0
+[6/1/2015, 15:6:2] === Logging stopped: 2015/06/01 15:06:02 ===

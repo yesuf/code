@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2010\Projects\WebApplication1\try\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\WebApplication1\try\bin\@try.dll
+c:\users\pc\documents\visual studio 2010\Projects\WebApplication1\try\bin\@try.pdb
+c:\users\pc\documents\visual studio 2010\Projects\WebApplication1\try\obj\Debug\@try.dll
+c:\users\pc\documents\visual studio 2010\Projects\WebApplication1\try\obj\Debug\@try.pdb

@@ -1,0 +1,1137 @@
+﻿Started.
+Current wave is 2
+allowPrerelease =False
+  Match: Package has no dependency on wave: id=Antlr2.Runtime, version=2.7.7.02
+  Match: Package has no dependency on wave: id=Antlr2.Tools, version=2.7.6.3
+  Match: Package has no dependency on wave: id=AsyncBridge.Net35, version=0.2.0
+  Match: Package has no dependency on wave: id=BLToolkit3, version=4.1.0
+  Match: Package has no dependency on wave: id=DotNetZip.JetBrains.Stripped, version=1.9.1.8
+  Match: Package has no dependency on wave: id=DotNetZip.Reduced, version=1.9.1.8
+  Match: Package has no dependency on wave: id=JetBrains.Annotations, version=8.0.4.0
+  Match: Package has no dependency on wave: id=JetBrains.Annotations, version=9.1.1
+  Match: Package has no dependency on wave: id=JetBrains.Build.Platform.Tasks.ThemedIconsPacker, version=2.0.20141124.0
+  Match: Package has no dependency on wave: id=JetBrains.Common.MemoryMappedStorage, version=0.9.1.172
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Core, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Core, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Core, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Core, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150521.123918
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20140318.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20141107.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.Analytics.BLL.Interface, version=2.0.20140606.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.Castle.Core, version=2.0.20140606.0
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.Navigation, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.Navigation, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.SourceView, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.SourceView, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.UnitTesting, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.UnitTesting, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Remotable, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Remotable, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Remotable, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Remotable, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.RemoteAgent, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.RemoteAgent, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Standalone, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Standalone, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Standalone, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Standalone, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Timeline, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Timeline, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Timeline, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Timeline, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCover.Core, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Core, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Core, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Core, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.Presentation, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Presentation, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Presentation, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Presentation, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.Standalone, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Standalone, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Standalone, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Standalone, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.VisualStudio, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.VisualStudio, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.VisualStudio, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.VisualStudio, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.dotMemory.Analytics.Lexicon, version=1.0.0.0
+  Match: Package of current wave found: id=JetBrains.DotMemory.Common, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Common, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Common, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Common, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.Core, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Core, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Core, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Core, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150521.131505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150521.131505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Framework, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Standalone, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Standalone, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Standalone, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Standalone, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.VisualStudio, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.VisualStudio, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotPeek.src, version=1.3.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotPeek.src, version=1.3.20141219.130149, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotPeek.src, version=102.0.20150408.154452
+  Match: Package of current wave found: id=JetBrains.DotPeek.src, version=102.0.20150521.130901
+  Match: Package of current wave found: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.AppBrowser, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.AppBrowser, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.ConsoleTools, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.ConsoleTools, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.Core, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.Core, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Core, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Core, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.dotTrace.Src, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.dotTrace.Src, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.Timeline, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.Timeline, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Timeline, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Timeline, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.VisualStudio, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.VisualStudio, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Core, version=1.0.20141204.190135, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Core, version=1.0.20141219.120210, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.Core, version=102.0.20150408.150301
+  Match: Package of current wave found: id=JetBrains.EtwService.Core, version=102.0.20150521.123857
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.msi, version=1.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.msi, version=1.0.20141219.120193, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.msi, version=102.0.20150408.145500
+  Match: Package of current wave found: id=JetBrains.EtwService.msi, version=102.0.20150521.123235
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Native.Core, version=1.1.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Native.Core, version=1.1.20141219.120193, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.Native.Core, version=102.0.20150408.145500
+  Match: Package of current wave found: id=JetBrains.EtwService.Native.Core, version=102.0.20150521.123235
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.3
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.4
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.9
+  Match: Package has no dependency on wave: id=JetBrains.internal.Common.Native.Utils, version=0.8.0.65
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Ide, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Ide, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Ide, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Ide, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Shell, version=102.0.20150408.144528
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Shell, version=6.0.20141204.190142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Shell, version=6.0.20141219.120162, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Text, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Text, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Text, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Text, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Installer, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Installer, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Installer, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Interop, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Framework, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Interface, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Interop, version=102.0.20150521.123255
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.ActiPro.Ide, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.ActiPro.Shell, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.DevExpress, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.Deployment.Compression.Cab, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.Deployment.WindowsInstaller, version=2.0.20140821.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.VisualStudio.Sdk.VsctLib, version=2.0.20140430.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20141017.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20150321.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.System.Windows.Interactivity, version=2.0.20140318.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.VisualStudio.AnyVs, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.VisualStudio.AnyVs.ShellInterop.PrivateBuild, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.WpfContrib, version=2.0.20140304.0
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Ide, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Ide, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Shell, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Shell, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TabWell, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TabWell, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TextControl, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TextControl, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Symbols, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Symbols, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Symbols, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Symbols, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Framework, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Framework, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Tests.Framework, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Tests.Framework, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.VisualStudio, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.VisualStudio, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.VisualStudio, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.VisualStudio, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WinForms, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WinForms, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WinForms, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WinForms, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.History.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.History.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.History.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.History.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.CleanUp, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.CleanUp, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.InternalLauncher, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.InternalLauncher, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Api, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Api, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Engine, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Engine, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=1.0.20141204.190170, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=1.0.20141219.120210, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150408.145403
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150521.123240
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20140317.0
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141113.0
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141127.0
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Snapshot, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Snapshot, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Snapshot, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Snapshot, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Windows, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Windows, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150521.124414
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150408.161622
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150521.130949
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.ExternalAnnotations, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.ExternalAnnotations, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.SolutionBuilder, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.SolutionBuilder, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.src, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.src, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.src, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.src, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Tasks, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Tasks, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.Tasks, version=6.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.Tasks, version=6.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS08, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS09, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS10, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS11, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS12, version=1.0.20140902.0
+  Match: Package of current wave found: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150408.154542
+  Match: Package of current wave found: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150521.131019
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.TeamCity.src, version=9.0.20141204.190180, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.TeamCity.src, version=9.0.20141219.130134, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.test.Framework, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.test.Framework, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.VisualStudio, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.VisualStudio, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.SDK, version=9.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.SDK, version=9.0.20141219.130142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.ReSharper.SDK, version=9.1.20150408.155143
+  Match: Package of current wave found: id=JetBrains.ReSharper.SDK, version=9.1.20150521.134223
+  Match: Package of current wave found: id=JetBrains.ReSharper.src, version=102.0.20150408.155143
+  Match: Package of current wave found: id=JetBrains.ReSharper.src, version=102.0.20150521.134223
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.src, version=9.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.src, version=9.0.20141219.130142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.Timeline.Protobuf-net, version=2.0.20140610.0
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Shared, version=102.0.20150408.155044
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Shared, version=102.0.20150521.131344
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Shared, version=3.0.20141204.190172, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Shared, version=3.0.20141219.130127, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150408.155044
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150521.131344
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Standalone, version=3.0.20141204.190172, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Standalone, version=3.0.20141219.130127, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=Microsoft.Web.Xdt, version=2.1.1
+  Match: Package has no dependency on wave: id=Newtonsoft35.Json, version=7.0.1
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.2
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.3
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.5
+  Match: Package has no dependency on wave: id=NUnit, version=2.6.3
+  Match: Package has no dependency on wave: id=NUnit, version=2.6.4
+  Match: Package has no dependency on wave: id=NUnit.Core, version=2.6.3
+  Match: Package has no dependency on wave: id=NUnit.Core, version=2.6.4
+  Match: Package has no dependency on wave: id=NVelocity, version=1.0.3
+  Match: Package has no dependency on wave: id=SharpZipLib.JetBrains.Stripped, version=0.86.0
+  Match: Package has no dependency on wave: id=SharpZipLib.JetBrains.Stripped, version=0.86.20150204.1
+  Match: Package has no dependency on wave: id=Sprache.JetBrains, version=2.0.0.44
+  Match: Package has no dependency on wave: id=TaskParallelLibrary, version=1.0.2856.0
+  Match: Package has no dependency on wave: id=Vestris.ResourceLib.JetBrains, version=1.4.20140925.0
+  Match: Package has no dependency on wave: id=Vestris.ResourceLib.JetBrains, version=1.4.20150303.0
+  Match: Package has no dependency on wave: id=Wave, version=1.0.0.0
+  Match: Package has no dependency on wave: id=Wave, version=2.0.0.0
+  Match: Package has no dependency on wave: id=Windows7APICodePack-Core, version=1.1.0.0
+  Match: Package has no dependency on wave: id=Windows7APICodePack-Shell, version=1.1.0.0
+  Match: Package has no dependency on wave: id=WPFToolkit, version=3.5.50211.1
+  Match: Package has no dependency on wave: id=WPFToolkit.DataVisualization, version=3.5.50211.1
+  Match: Package has no dependency on wave: id=Wpg, version=1.0.20140608.0
+  Match: Package has no dependency on wave: id=xmlrpcnet, version=2.5.0
+  Match: Package has no dependency on wave: id=ZetaLongPaths.JetBrains.Stripped, version=1.0.0.6
+Package This Wave: id=JetBrains.DotCommon.Core, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.Core, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150408.154312
+Package This Wave: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150521.130907
+Package This Wave: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150408.154312
+Package This Wave: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150521.130907
+Package This Wave: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150408.154312
+Package This Wave: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150521.130907
+Package This Wave: id=JetBrains.DotCommon.Remotable, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.Remotable, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.Standalone, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.Standalone, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCommon.Timeline, version=102.0.20150408.150318
+Package This Wave: id=JetBrains.DotCommon.Timeline, version=102.0.20150521.123918
+Package This Wave: id=JetBrains.DotCover.Core, version=102.0.20150408.155159
+Package This Wave: id=JetBrains.DotCover.Core, version=102.0.20150521.131501
+Package This Wave: id=JetBrains.DotCover.Presentation, version=102.0.20150408.155159
+Package This Wave: id=JetBrains.DotCover.Presentation, version=102.0.20150521.131501
+Package This Wave: id=JetBrains.DotCover.Standalone, version=102.0.20150408.155159
+Package This Wave: id=JetBrains.DotCover.Standalone, version=102.0.20150521.131501
+Package This Wave: id=JetBrains.DotCover.VisualStudio, version=102.0.20150408.155159
+Package This Wave: id=JetBrains.DotCover.VisualStudio, version=102.0.20150521.131501
+Package This Wave: id=JetBrains.DotMemory.Common, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.Common, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotMemory.Core, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.Core, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Framework, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.Standalone, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.Standalone, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150408.155505
+Package This Wave: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150521.131505
+Package This Wave: id=JetBrains.DotPeek.src, version=102.0.20150408.154452
+Package This Wave: id=JetBrains.DotPeek.src, version=102.0.20150521.130901
+Package This Wave: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.DotTrace.Core, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.Core, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.DotTrace.Timeline, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.Timeline, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150408.160136
+Package This Wave: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150521.132011
+Package This Wave: id=JetBrains.EtwService.Core, version=102.0.20150408.150301
+Package This Wave: id=JetBrains.EtwService.Core, version=102.0.20150521.123857
+Package This Wave: id=JetBrains.EtwService.msi, version=102.0.20150408.145500
+Package This Wave: id=JetBrains.EtwService.msi, version=102.0.20150521.123235
+Package This Wave: id=JetBrains.EtwService.Native.Core, version=102.0.20150408.145500
+Package This Wave: id=JetBrains.EtwService.Native.Core, version=102.0.20150521.123235
+Package This Wave: id=JetBrains.Platform.Core.Ide, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Core.Ide, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Core.Shell, version=102.0.20150408.144528
+Package This Wave: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+Package This Wave: id=JetBrains.Platform.Core.Text, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Core.Text, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Installer, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Interop, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Framework, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Interface, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Interop, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Symbols, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Symbols, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Tests.Framework, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Tests.Framework, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Platform.VisualStudio, version=102.0.20150408.145317
+Package This Wave: id=JetBrains.Platform.VisualStudio, version=102.0.20150521.123255
+Package This Wave: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Editor.Core, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Editor.Core, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.History.Core, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.History.Core, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.History.WPF, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.History.WPF, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150408.145403
+Package This Wave: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150521.123240
+Package This Wave: id=JetBrains.Profiler.Snapshot, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.Snapshot, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150408.151241
+Package This Wave: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150521.124414
+Package This Wave: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150408.161622
+Package This Wave: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150521.130949
+Package This Wave: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150408.150524
+Package This Wave: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150521.124132
+Package This Wave: id=JetBrains.Psi.Features.src, version=102.0.20150408.150524
+Package This Wave: id=JetBrains.Psi.Features.src, version=102.0.20150521.124132
+Package This Wave: id=JetBrains.Psi.Features.Tasks, version=102.0.20150408.150524
+Package This Wave: id=JetBrains.Psi.Features.Tasks, version=102.0.20150521.124132
+Package This Wave: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150408.154542
+Package This Wave: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150521.131019
+Package This Wave: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150408.150524
+Package This Wave: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150521.124132
+Package This Wave: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150408.150524
+Package This Wave: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150521.124132
+Package This Wave: id=JetBrains.ReSharper.SDK, version=9.1.20150408.155143
+Package This Wave: id=JetBrains.ReSharper.SDK, version=9.1.20150521.134223
+Package This Wave: id=JetBrains.ReSharper.src, version=102.0.20150408.155143
+Package This Wave: id=JetBrains.ReSharper.src, version=102.0.20150521.134223
+Package This Wave: id=JetBrains.Timeline.Src.Shared, version=102.0.20150408.155044
+Package This Wave: id=JetBrains.Timeline.Src.Shared, version=102.0.20150521.131344
+Package This Wave: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150408.155044
+Package This Wave: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150521.131344
+Latest Packages This Wave: id=JetBrains.DotCommon.Core, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150521.130907
+Latest Packages This Wave: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150521.130907
+Latest Packages This Wave: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150521.130907
+Latest Packages This Wave: id=JetBrains.DotCommon.Remotable, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.Standalone, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCommon.Timeline, version=102.0.20150521.123918
+Latest Packages This Wave: id=JetBrains.DotCover.Core, version=102.0.20150521.131501
+Latest Packages This Wave: id=JetBrains.DotCover.Presentation, version=102.0.20150521.131501
+Latest Packages This Wave: id=JetBrains.DotCover.Standalone, version=102.0.20150521.131501
+Latest Packages This Wave: id=JetBrains.DotCover.VisualStudio, version=102.0.20150521.131501
+Latest Packages This Wave: id=JetBrains.DotMemory.Common, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotMemory.Core, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotMemory.dotMemoryUnit.Framework, version=102.0.20150408.155505
+Latest Packages This Wave: id=JetBrains.DotMemory.Standalone, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150521.131505
+Latest Packages This Wave: id=JetBrains.DotPeek.src, version=102.0.20150521.130901
+Latest Packages This Wave: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.DotTrace.Core, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.DotTrace.Timeline, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150521.132011
+Latest Packages This Wave: id=JetBrains.EtwService.Core, version=102.0.20150521.123857
+Latest Packages This Wave: id=JetBrains.EtwService.msi, version=102.0.20150521.123235
+Latest Packages This Wave: id=JetBrains.EtwService.Native.Core, version=102.0.20150521.123235
+Latest Packages This Wave: id=JetBrains.Platform.Core.Ide, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+Latest Packages This Wave: id=JetBrains.Platform.Core.Text, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Interop, version=102.0.20150408.145317
+Latest Packages This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Framework, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Interface, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Interop.dotMemoryUnit.Interop, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Symbols, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Tests.Framework, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Platform.VisualStudio, version=102.0.20150521.123255
+Latest Packages This Wave: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Editor.Core, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.History.Core, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.History.WPF, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150521.123240
+Latest Packages This Wave: id=JetBrains.Profiler.Snapshot, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150521.124414
+Latest Packages This Wave: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150521.130949
+Latest Packages This Wave: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150521.124132
+Latest Packages This Wave: id=JetBrains.Psi.Features.src, version=102.0.20150521.124132
+Latest Packages This Wave: id=JetBrains.Psi.Features.Tasks, version=102.0.20150521.124132
+Latest Packages This Wave: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150521.131019
+Latest Packages This Wave: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150521.124132
+Latest Packages This Wave: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150521.124132
+Latest Packages This Wave: id=JetBrains.ReSharper.SDK, version=9.1.20150521.134223
+Latest Packages This Wave: id=JetBrains.ReSharper.src, version=102.0.20150521.134223
+Latest Packages This Wave: id=JetBrains.Timeline.Src.Shared, version=102.0.20150521.131344
+Latest Packages This Wave: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150521.131344
+  Match: Package has no dependency on wave: id=Antlr2.Runtime, version=2.7.7.02
+  Match: Package has no dependency on wave: id=Antlr2.Tools, version=2.7.6.3
+  Match: Package has no dependency on wave: id=AsyncBridge.Net35, version=0.2.0
+  Match: Package has no dependency on wave: id=BLToolkit3, version=4.1.0
+  Match: Package has no dependency on wave: id=DotNetZip.JetBrains.Stripped, version=1.9.1.8
+  Match: Package has no dependency on wave: id=DotNetZip.Reduced, version=1.9.1.8
+  Match: Package has no dependency on wave: id=JetBrains.Annotations, version=8.0.4.0
+  Match: Package has no dependency on wave: id=JetBrains.Annotations, version=9.1.1
+  Match: Package has no dependency on wave: id=JetBrains.Build.Platform.Tasks.ThemedIconsPacker, version=2.0.20141124.0
+  Match: Package has no dependency on wave: id=JetBrains.Common.MemoryMappedStorage, version=0.9.1.172
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Core, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Core, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Core, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Core, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150521.123918
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20140318.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20141107.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.Analytics.BLL.Interface, version=2.0.20140606.0
+  Match: Package has no dependency on wave: id=JetBrains.DotCommon.Lib.Castle.Core, version=2.0.20140606.0
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.Navigation, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.Navigation, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.SourceView, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.SourceView, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150408.154312
+  Match: Package of current wave found: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150521.130907
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.UnitTesting, version=3.0.20141204.190169, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Psi.UnitTesting, version=3.0.20141219.130131, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Remotable, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Remotable, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Remotable, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Remotable, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.RemoteAgent, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.RemoteAgent, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Standalone, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Standalone, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Standalone, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Standalone, version=102.0.20150521.123918
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Timeline, version=1.0.20141204.190156, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCommon.Timeline, version=1.0.20141219.120183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCommon.Timeline, version=102.0.20150408.150318
+  Match: Package of current wave found: id=JetBrains.DotCommon.Timeline, version=102.0.20150521.123918
+  Match: Package of current wave found: id=JetBrains.DotCover.Core, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Core, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Core, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Core, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.Presentation, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Presentation, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Presentation, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Presentation, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.Standalone, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.Standalone, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Standalone, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.Standalone, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotCover.VisualStudio, version=102.0.20150408.155159
+  Match: Package of current wave found: id=JetBrains.DotCover.VisualStudio, version=102.0.20150521.131501
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.VisualStudio, version=3.0.20141204.190186, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotCover.VisualStudio, version=3.0.20141219.140120, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.dotMemory.Analytics.Lexicon, version=1.0.0.0
+  Match: Package of current wave found: id=JetBrains.DotMemory.Common, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Common, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Common, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Common, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.Core, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Core, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Core, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Core, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150521.131505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150521.131505
+  Match: Package of current wave found: id=JetBrains.DotMemory.dotMemoryUnit.Framework, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Standalone, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.Standalone, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Standalone, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.Standalone, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150408.155505
+  Match: Package of current wave found: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150521.131505
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.VisualStudio, version=4.2.20141204.190164, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotMemory.VisualStudio, version=4.2.20141219.130159, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotPeek.src, version=1.3.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotPeek.src, version=1.3.20141219.130149, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotPeek.src, version=102.0.20150408.154452
+  Match: Package of current wave found: id=JetBrains.DotPeek.src, version=102.0.20150521.130901
+  Match: Package of current wave found: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.AppBrowser, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.AppBrowser, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.ConsoleTools, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.ConsoleTools, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.Core, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.Core, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Core, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Core, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.dotTrace.Src, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.dotTrace.Src, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.Timeline, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.Timeline, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Timeline, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.Timeline, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150408.160136
+  Match: Package of current wave found: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150521.132011
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.VisualStudio, version=6.0.20141204.190182, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.DotTrace.VisualStudio, version=6.0.20141219.130145, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Core, version=1.0.20141204.190135, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Core, version=1.0.20141219.120210, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.Core, version=102.0.20150408.150301
+  Match: Package of current wave found: id=JetBrains.EtwService.Core, version=102.0.20150521.123857
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.msi, version=1.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.msi, version=1.0.20141219.120193, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.msi, version=102.0.20150408.145500
+  Match: Package of current wave found: id=JetBrains.EtwService.msi, version=102.0.20150521.123235
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Native.Core, version=1.1.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.EtwService.Native.Core, version=1.1.20141219.120193, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.EtwService.Native.Core, version=102.0.20150408.145500
+  Match: Package of current wave found: id=JetBrains.EtwService.Native.Core, version=102.0.20150521.123235
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.3
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.4
+  Match: Package has no dependency on wave: id=JetBrains.ExternalAnnotations, version=9.1.0.9
+  Match: Package has no dependency on wave: id=JetBrains.internal.Common.Native.Utils, version=0.8.0.65
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Ide, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Ide, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Ide, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Ide, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Shell, version=102.0.20150408.144528
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Shell, version=6.0.20141204.190142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Shell, version=6.0.20141219.120162, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Text, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Core.Text, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Text, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Core.Text, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Installer, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Installer, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Installer, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Interop, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Framework, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Interface, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Interop.dotMemoryUnit.Interop, version=102.0.20150521.123255
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.ActiPro.Ide, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.ActiPro.Shell, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.DevExpress, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.Deployment.Compression.Cab, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.Deployment.WindowsInstaller, version=2.0.20140821.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.Microsoft.VisualStudio.Sdk.VsctLib, version=2.0.20140430.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20141017.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20150321.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.System.Windows.Interactivity, version=2.0.20140318.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.VisualStudio.AnyVs, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.VisualStudio.AnyVs.ShellInterop.PrivateBuild, version=2.0.20140304.0
+  Match: Package has no dependency on wave: id=JetBrains.Platform.Lib.WpfContrib, version=2.0.20140304.0
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Ide, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Ide, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Shell, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.Shell, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TabWell, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TabWell, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TextControl, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Standalone.TextControl, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Symbols, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Symbols, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Symbols, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Symbols, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Framework, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Framework, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Tests.Framework, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.Tests.Framework, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150521.123255
+  Match: Package of current wave found: id=JetBrains.Platform.VisualStudio, version=102.0.20150408.145317
+  Match: Package of current wave found: id=JetBrains.Platform.VisualStudio, version=102.0.20150521.123255
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.VisualStudio, version=6.0.20141204.190160, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Platform.VisualStudio, version=6.0.20141219.120158, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WinForms, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WinForms, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Configurator.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WinForms, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WinForms, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Editor.Windows.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.History.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.History.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.WPF, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.History.WPF, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.History.WPF, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.History.WPF, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.CleanUp, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.CleanUp, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.InternalLauncher, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.InternalLauncher, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Api, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Api, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Engine, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Engine, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=1.0.20141204.190170, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=1.0.20141219.120210, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150408.145403
+  Match: Package of current wave found: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150521.123240
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20140317.0
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141113.0
+  Match: Package has no dependency on wave: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141127.0
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Snapshot, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.Snapshot, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.Snapshot, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.Snapshot, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Core, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Core, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150521.124414
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Windows, version=1.0.20141204.190174, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Profiler.VsIntegration.Windows, version=1.0.20141219.130143, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150408.151241
+  Match: Package of current wave found: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150521.124414
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150408.161622
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150521.130949
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.ExternalAnnotations, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.ExternalAnnotations, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.SolutionBuilder, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.SolutionBuilder, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.src, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.src, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.src, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.src, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Tasks, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.Tasks, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.Tasks, version=6.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.Tasks, version=6.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS08, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS09, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS10, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS11, version=1.0.20140902.0
+  Match: Package has no dependency on wave: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS12, version=1.0.20140902.0
+  Match: Package of current wave found: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150408.154542
+  Match: Package of current wave found: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150521.131019
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.TeamCity.src, version=9.0.20141204.190180, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.TeamCity.src, version=9.0.20141219.130134, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.test.Framework, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.test.Framework, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150408.150524
+  Match: Package of current wave found: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150521.124132
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.VisualStudio, version=9.0.20141204.190183, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Psi.Features.VisualStudio, version=9.0.20141219.130140, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.SDK, version=9.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.SDK, version=9.0.20141219.130142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.ReSharper.SDK, version=9.1.20150408.155143
+  Match: Package of current wave found: id=JetBrains.ReSharper.SDK, version=9.1.20150521.134223
+  Match: Package of current wave found: id=JetBrains.ReSharper.src, version=102.0.20150408.155143
+  Match: Package of current wave found: id=JetBrains.ReSharper.src, version=102.0.20150521.134223
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.src, version=9.0.20141204.190166, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.ReSharper.src, version=9.0.20141219.130142, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=JetBrains.Timeline.Protobuf-net, version=2.0.20140610.0
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Shared, version=102.0.20150408.155044
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Shared, version=102.0.20150521.131344
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Shared, version=3.0.20141204.190172, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Shared, version=3.0.20141219.130127, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150408.155044
+  Match: Package of current wave found: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150521.131344
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Standalone, version=3.0.20141204.190172, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package of non-current wave filtered out: id=JetBrains.Timeline.Src.Standalone, version=3.0.20141219.130127, currentWave=2, packageWave=[1.0.0.0]
+  Match: Package has no dependency on wave: id=Microsoft.Web.Xdt, version=2.1.1
+  Match: Package has no dependency on wave: id=Newtonsoft35.Json, version=7.0.1
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.2
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.3
+  Match: Package has no dependency on wave: id=NuGet.Core, version=2.8.5
+  Match: Package has no dependency on wave: id=NUnit, version=2.6.3
+  Match: Package has no dependency on wave: id=NUnit, version=2.6.4
+  Match: Package has no dependency on wave: id=NUnit.Core, version=2.6.3
+  Match: Package has no dependency on wave: id=NUnit.Core, version=2.6.4
+  Match: Package has no dependency on wave: id=NVelocity, version=1.0.3
+  Match: Package has no dependency on wave: id=SharpZipLib.JetBrains.Stripped, version=0.86.0
+  Match: Package has no dependency on wave: id=SharpZipLib.JetBrains.Stripped, version=0.86.20150204.1
+  Match: Package has no dependency on wave: id=Sprache.JetBrains, version=2.0.0.44
+  Match: Package has no dependency on wave: id=TaskParallelLibrary, version=1.0.2856.0
+  Match: Package has no dependency on wave: id=Vestris.ResourceLib.JetBrains, version=1.4.20140925.0
+  Match: Package has no dependency on wave: id=Vestris.ResourceLib.JetBrains, version=1.4.20150303.0
+  Match: Package has no dependency on wave: id=Wave, version=1.0.0.0
+  Match: Package has no dependency on wave: id=Wave, version=2.0.0.0
+  Match: Package has no dependency on wave: id=Windows7APICodePack-Core, version=1.1.0.0
+  Match: Package has no dependency on wave: id=Windows7APICodePack-Shell, version=1.1.0.0
+  Match: Package has no dependency on wave: id=WPFToolkit, version=3.5.50211.1
+  Match: Package has no dependency on wave: id=WPFToolkit.DataVisualization, version=3.5.50211.1
+  Match: Package has no dependency on wave: id=Wpg, version=1.0.20140608.0
+  Match: Package has no dependency on wave: id=xmlrpcnet, version=2.5.0
+  Match: Package has no dependency on wave: id=ZetaLongPaths.JetBrains.Stripped, version=1.0.0.6
+Non Wave Packages: id=Antlr2.Runtime, version=2.7.7.02
+Non Wave Packages: id=Antlr2.Tools, version=2.7.6.3
+Non Wave Packages: id=AsyncBridge.Net35, version=0.2.0
+Non Wave Packages: id=BLToolkit3, version=4.1.0
+Non Wave Packages: id=DotNetZip.JetBrains.Stripped, version=1.9.1.8
+Non Wave Packages: id=DotNetZip.Reduced, version=1.9.1.8
+Non Wave Packages: id=JetBrains.Annotations, version=8.0.4.0
+Non Wave Packages: id=JetBrains.Annotations, version=9.1.1
+Non Wave Packages: id=JetBrains.Build.Platform.Tasks.ThemedIconsPacker, version=2.0.20141124.0
+Non Wave Packages: id=JetBrains.Common.MemoryMappedStorage, version=0.9.1.172
+Non Wave Packages: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20140318.0
+Non Wave Packages: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20141107.0
+Non Wave Packages: id=JetBrains.DotCommon.Lib.Analytics.BLL.Interface, version=2.0.20140606.0
+Non Wave Packages: id=JetBrains.DotCommon.Lib.Castle.Core, version=2.0.20140606.0
+Non Wave Packages: id=JetBrains.dotMemory.Analytics.Lexicon, version=1.0.0.0
+Non Wave Packages: id=JetBrains.ExternalAnnotations, version=9.1.0.3
+Non Wave Packages: id=JetBrains.ExternalAnnotations, version=9.1.0.4
+Non Wave Packages: id=JetBrains.ExternalAnnotations, version=9.1.0.9
+Non Wave Packages: id=JetBrains.internal.Common.Native.Utils, version=0.8.0.65
+Non Wave Packages: id=JetBrains.Platform.Lib.ActiPro.Ide, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.ActiPro.Shell, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.DevExpress, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.Microsoft.Deployment.Compression.Cab, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.Microsoft.Deployment.WindowsInstaller, version=2.0.20140821.0
+Non Wave Packages: id=JetBrains.Platform.Lib.Microsoft.VisualStudio.Sdk.VsctLib, version=2.0.20140430.0
+Non Wave Packages: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20141017.0
+Non Wave Packages: id=JetBrains.Platform.Lib.OsTestFramework, version=2.0.20150321.0
+Non Wave Packages: id=JetBrains.Platform.Lib.System.Windows.Interactivity, version=2.0.20140318.0
+Non Wave Packages: id=JetBrains.Platform.Lib.VisualStudio.AnyVs, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.VisualStudio.AnyVs.ShellInterop.PrivateBuild, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Platform.Lib.WpfContrib, version=2.0.20140304.0
+Non Wave Packages: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20140317.0
+Non Wave Packages: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141113.0
+Non Wave Packages: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141127.0
+Non Wave Packages: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS08, version=1.0.20140902.0
+Non Wave Packages: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS09, version=1.0.20140902.0
+Non Wave Packages: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS10, version=1.0.20140902.0
+Non Wave Packages: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS11, version=1.0.20140902.0
+Non Wave Packages: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS12, version=1.0.20140902.0
+Non Wave Packages: id=JetBrains.Timeline.Protobuf-net, version=2.0.20140610.0
+Non Wave Packages: id=Microsoft.Web.Xdt, version=2.1.1
+Non Wave Packages: id=Newtonsoft35.Json, version=7.0.1
+Non Wave Packages: id=NuGet.Core, version=2.8.2
+Non Wave Packages: id=NuGet.Core, version=2.8.3
+Non Wave Packages: id=NuGet.Core, version=2.8.5
+Non Wave Packages: id=NUnit, version=2.6.3
+Non Wave Packages: id=NUnit, version=2.6.4
+Non Wave Packages: id=NUnit.Core, version=2.6.3
+Non Wave Packages: id=NUnit.Core, version=2.6.4
+Non Wave Packages: id=NVelocity, version=1.0.3
+Non Wave Packages: id=SharpZipLib.JetBrains.Stripped, version=0.86.0
+Non Wave Packages: id=SharpZipLib.JetBrains.Stripped, version=0.86.20150204.1
+Non Wave Packages: id=Sprache.JetBrains, version=2.0.0.44
+Non Wave Packages: id=TaskParallelLibrary, version=1.0.2856.0
+Non Wave Packages: id=Vestris.ResourceLib.JetBrains, version=1.4.20140925.0
+Non Wave Packages: id=Vestris.ResourceLib.JetBrains, version=1.4.20150303.0
+Non Wave Packages: id=Wave, version=1.0.0.0
+Non Wave Packages: id=Wave, version=2.0.0.0
+Non Wave Packages: id=Windows7APICodePack-Core, version=1.1.0.0
+Non Wave Packages: id=Windows7APICodePack-Shell, version=1.1.0.0
+Non Wave Packages: id=WPFToolkit, version=3.5.50211.1
+Non Wave Packages: id=WPFToolkit.DataVisualization, version=3.5.50211.1
+Non Wave Packages: id=Wpg, version=1.0.20140608.0
+Non Wave Packages: id=xmlrpcnet, version=2.5.0
+Non Wave Packages: id=ZetaLongPaths.JetBrains.Stripped, version=1.0.0.6
+Packages Final: id=JetBrains.DotCommon.Core, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.ElevationAgent, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.ExternalStorage, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.Psi.Navigation, version=102.0.20150521.130907
+Packages Final: id=JetBrains.DotCommon.Psi.SourceView, version=102.0.20150521.130907
+Packages Final: id=JetBrains.DotCommon.Psi.UnitTesting, version=102.0.20150521.130907
+Packages Final: id=JetBrains.DotCommon.Remotable, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.RemoteAgent, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.Standalone, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCommon.Timeline, version=102.0.20150521.123918
+Packages Final: id=JetBrains.DotCover.Core, version=102.0.20150521.131501
+Packages Final: id=JetBrains.DotCover.Presentation, version=102.0.20150521.131501
+Packages Final: id=JetBrains.DotCover.Standalone, version=102.0.20150521.131501
+Packages Final: id=JetBrains.DotCover.VisualStudio, version=102.0.20150521.131501
+Packages Final: id=JetBrains.DotMemory.Common, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotMemory.Core, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotMemory.dotMemoryUnit.Common, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotMemory.dotMemoryUnit.Core, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotMemory.dotMemoryUnit.Framework, version=102.0.20150408.155505
+Packages Final: id=JetBrains.DotMemory.Standalone, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotMemory.VisualStudio, version=102.0.20150521.131505
+Packages Final: id=JetBrains.DotPeek.src, version=102.0.20150521.130901
+Packages Final: id=JetBrains.DotTrace.AppBrowser, version=102.0.20150521.132011
+Packages Final: id=JetBrains.DotTrace.ConsoleTools, version=102.0.20150521.132011
+Packages Final: id=JetBrains.DotTrace.Core, version=102.0.20150521.132011
+Packages Final: id=JetBrains.DotTrace.dotTrace.Src, version=102.0.20150521.132011
+Packages Final: id=JetBrains.DotTrace.Timeline, version=102.0.20150521.132011
+Packages Final: id=JetBrains.DotTrace.VisualStudio, version=102.0.20150521.132011
+Packages Final: id=JetBrains.EtwService.Core, version=102.0.20150521.123857
+Packages Final: id=JetBrains.EtwService.msi, version=102.0.20150521.123235
+Packages Final: id=JetBrains.EtwService.Native.Core, version=102.0.20150521.123235
+Packages Final: id=JetBrains.Platform.Core.Ide, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+Packages Final: id=JetBrains.Platform.Core.Text, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Interop, version=102.0.20150408.145317
+Packages Final: id=JetBrains.Platform.Interop.dotMemoryUnit.Framework, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Interop.dotMemoryUnit.Interface, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Interop.dotMemoryUnit.Interop, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Standalone.Ide, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Standalone.Shell, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Standalone.TabWell, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Standalone.TextControl, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Symbols, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Tests.Framework, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Tests.Integration.Framework.Common, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.Tests.Integration.Framework.Server, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Platform.VisualStudio, version=102.0.20150521.123255
+Packages Final: id=JetBrains.Profiler.Configurator.Core, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Configurator.WinForms, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Configurator.WPF, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Editor.Core, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Editor.Windows.BehaviorModel, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Editor.Windows.WinForms, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Editor.Windows.WPF, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.History.Core, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.History.WPF, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.CleanUp, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.Core, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.InternalLauncher, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.Windows.Api, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.Windows.Engine, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.Kernel.Windows.Native.Core, version=102.0.20150521.123240
+Packages Final: id=JetBrains.Profiler.Snapshot, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.VsIntegration.Core, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Profiler.VsIntegration.Windows, version=102.0.20150521.124414
+Packages Final: id=JetBrains.Psi.Features.Cpp.src, version=102.0.20150521.130949
+Packages Final: id=JetBrains.Psi.Features.SolutionBuilder, version=102.0.20150521.124132
+Packages Final: id=JetBrains.Psi.Features.src, version=102.0.20150521.124132
+Packages Final: id=JetBrains.Psi.Features.Tasks, version=102.0.20150521.124132
+Packages Final: id=JetBrains.Psi.Features.TeamCity.src, version=102.0.20150521.131019
+Packages Final: id=JetBrains.Psi.Features.test.Framework, version=102.0.20150521.124132
+Packages Final: id=JetBrains.Psi.Features.VisualStudio, version=102.0.20150521.124132
+Packages Final: id=JetBrains.ReSharper.SDK, version=9.1.20150521.134223
+Packages Final: id=JetBrains.ReSharper.src, version=102.0.20150521.134223
+Packages Final: id=JetBrains.Timeline.Src.Shared, version=102.0.20150521.131344
+Packages Final: id=JetBrains.Timeline.Src.Standalone, version=102.0.20150521.131344
+Packages Final: id=Wave, version=2.0.0.0
+Packages Final: id=JetBrains.Annotations, version=9.1.1
+Packages Final: id=JetBrains.Common.MemoryMappedStorage, version=0.9.1.172
+Packages Final: id=JetBrains.DotCommon.Lib.Analytics.BLL.Interface, version=2.0.20140606.0
+Packages Final: id=JetBrains.DotCommon.Lib.Castle.Core, version=2.0.20140606.0
+Packages Final: id=JetBrains.internal.Common.Native.Utils, version=0.8.0.65
+Packages Final: id=JetBrains.Platform.Lib.ActiPro.Shell, version=2.0.20140304.0
+Packages Final: id=JetBrains.Platform.Lib.System.Windows.Interactivity, version=2.0.20140318.0
+Packages Final: id=Newtonsoft35.Json, version=7.0.1
+Packages Final: id=TaskParallelLibrary, version=1.0.2856.0
+Packages Final: id=JetBrains.DotCommon.Lib.ActiPro.LegacyForDotTrace, version=2.0.20141107.0
+Packages Final: id=JetBrains.Platform.Lib.WpfContrib, version=2.0.20140304.0
+Packages Final: id=JetBrains.Platform.Lib.VisualStudio.AnyVs.ShellInterop.PrivateBuild, version=2.0.20140304.0
+Packages Final: id=JetBrains.Timeline.Protobuf-net, version=2.0.20140610.0
+Packages Final: id=DotNetZip.Reduced, version=1.9.1.8
+Packages Final: id=Microsoft.Web.Xdt, version=2.1.1
+Packages Final: id=NuGet.Core, version=2.8.5
+Packages Final: id=BLToolkit3, version=4.1.0
+Packages Final: id=JetBrains.dotMemory.Analytics.Lexicon, version=1.0.0.0
+Packages Final: id=WPFToolkit, version=3.5.50211.1
+Packages Final: id=WPFToolkit.DataVisualization, version=3.5.50211.1
+Packages Final: id=JetBrains.Platform.Lib.ActiPro.Ide, version=2.0.20140304.0
+Packages Final: id=JetBrains.Platform.Lib.DevExpress, version=2.0.20140304.0
+Packages Final: id=Windows7APICodePack-Core, version=1.1.0.0
+Packages Final: id=Windows7APICodePack-Shell, version=1.1.0.0
+Packages Final: id=Wpg, version=1.0.20140608.0
+Packages Final: id=AsyncBridge.Net35, version=0.2.0
+Packages Final: id=SharpZipLib.JetBrains.Stripped, version=0.86.20150204.1
+Packages Final: id=Vestris.ResourceLib.JetBrains, version=1.4.20150303.0
+Packages Final: id=xmlrpcnet, version=2.5.0
+Packages Final: id=JetBrains.Platform.Lib.Microsoft.Deployment.WindowsInstaller, version=2.0.20140821.0
+Packages Final: id=JetBrains.Platform.Lib.Microsoft.Deployment.Compression.Cab, version=2.0.20140304.0
+Packages Final: id=NUnit, version=2.6.4
+Packages Final: id=JetBrains.Profiler.Lib.SymSrv, version=2.0.20141127.0
+Packages Final: id=JetBrains.ExternalAnnotations, version=9.1.0.9
+Packages Final: id=NUnit.Core, version=2.6.4
+Packages Final: id=Antlr2.Runtime, version=2.7.7.02
+Packages Final: id=Antlr2.Tools, version=2.7.6.3
+Packages Final: id=NVelocity, version=1.0.3
+Packages Final: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS10, version=1.0.20140902.0
+Packages Final: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS11, version=1.0.20140902.0
+Packages Final: id=JetBrains.Psi.Features.TeamCity.Lib.VSTS12, version=1.0.20140902.0
+Packages Final: id=JetBrains.Build.Platform.Tasks.ThemedIconsPacker, version=2.0.20141124.0
+Installer packages: id=JetBrains.Platform.Installer, version=102.0.20150521.123255
+Installer packages: id=JetBrains.Platform.Core.Shell, version=102.0.20150521.122743
+Installer packages: id=Wave, version=2.0.0.0
+Installer packages: id=AsyncBridge.Net35, version=0.2.0
+Installer packages: id=TaskParallelLibrary, version=1.0.2856.0
+Installer packages: id=JetBrains.Annotations, version=9.1.1
+Installer packages: id=JetBrains.Platform.Lib.System.Windows.Interactivity, version=2.0.20140318.0
+Installer packages: id=JetBrains.Platform.Lib.WpfContrib, version=2.0.20140304.0
+Installer packages: id=Microsoft.Web.Xdt, version=2.1.1
+Installer packages: id=Newtonsoft35.Json, version=7.0.1
+Installer packages: id=NuGet.Core, version=2.8.5
+Installer packages: id=SharpZipLib.JetBrains.Stripped, version=0.86.20150204.1
+Installer packages: id=Vestris.ResourceLib.JetBrains, version=1.4.20150303.0
+Installer packages: id=Windows7APICodePack-Core, version=1.1.0.0
+Installer packages: id=Windows7APICodePack-Shell, version=1.1.0.0
+Installer packages: id=xmlrpcnet, version=2.5.0
+Installer packages: id=DotNetZip.Reduced, version=1.9.1.8
+Installer packages: id=JetBrains.Platform.Lib.Microsoft.Deployment.WindowsInstaller, version=2.0.20140821.0
+File contains corrupted data.
+   at MS.Internal.IO.Zip.ZipIOEndOfCentralDirectoryBlock.FindPosition(Stream archiveStream)
+   at MS.Internal.IO.Zip.ZipIOEndOfCentralDirectoryBlock.SeekableLoad(ZipIOBlockManager blockManager)
+   at MS.Internal.IO.Zip.ZipArchive..ctor(Stream archiveStream, FileMode mode, FileAccess access, Boolean streaming, Boolean ownStream)
+   at MS.Internal.IO.Zip.ZipArchive.OpenOnStream(Stream stream, FileMode mode, FileAccess access, Boolean streaming)
+   at System.IO.Packaging.ZipPackage..ctor(Stream s, FileMode mode, FileAccess access, Boolean streaming)
+   at System.IO.Packaging.Package.Open(Stream stream, FileMode packageMode, FileAccess packageAccess, Boolean streaming)
+   at NuGet.ZipPackage.EnsureManifest()
+   at NuGet.ZipPackage..ctor(Stream stream)
+   at NuGet.DataServicePackage.EnsurePackage(IPackageCacheRepository cacheRepository)
+   at NuGet.DataServicePackage.GetFiles()
+   at JetBrains.Platform.Installer.Bootstrap.Runs.<>c__DisplayClass15.<Main>b__8()
+

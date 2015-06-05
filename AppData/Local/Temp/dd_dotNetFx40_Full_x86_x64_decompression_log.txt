@@ -1,0 +1,18 @@
+[5/15/2015, 13:13:44] === Logging started: 2015/05/15 13:13:44 ===
+[5/15/2015, 13:13:44] Executable: c:\users\pc\desktop\visual stidio 2010\setup\..\wcu\dotnetframework\dotNetFx40_Full_x86_x64.exe v4.0.30319.1
+[5/15/2015, 13:13:44] --- logging level: standard ---
+[5/15/2015, 13:13:44] Successfully bound to the ClusApi.dll
+[5/15/2015, 13:13:44] Error 0x80070424: Failed to open the current cluster
+[5/15/2015, 13:13:44] Cluster drive map: ''
+[5/15/2015, 13:13:44] Considering drive: 'C:\'...
+[5/15/2015, 13:13:44] Considering drive: 'D:\'...
+[5/15/2015, 13:13:44] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[5/15/2015, 13:13:44] Considering drive: 'E:\'...
+[5/15/2015, 13:13:44] Considering drive: 'F:\'...
+[5/15/2015, 13:13:44] Drive 'C:\' has been selected as the largest fixed drive
+[5/15/2015, 13:13:44] Directory 'C:\5d782634d74179e432b77e9c072b\' has been selected for file extraction
+[5/15/2015, 13:13:44] Extracting files to: C:\5d782634d74179e432b77e9c072b\
+[5/15/2015, 13:13:51] Extraction took 6.552 seconds
+[5/15/2015, 13:13:51] Executing command line: 'C:\5d782634d74179e432b77e9c072b\\Setup.exe  /q /norestart /KeepAUPaused /ChainingPackage "Microsoft Visual Studio 2010 Ultimate - ENU" /CEIPconsent /pipe SectionName_4214263225 /x86 /x64'
+[5/15/2015, 13:17:12] Exiting with result code: 0x0
+[5/15/2015, 13:17:12] === Logging stopped: 2015/05/15 13:17:12 ===

@@ -1,0 +1,18 @@
+[5/31/2015, 19:48:31] === Logging started: 2015/05/31 19:48:31 ===
+[5/31/2015, 19:48:31] Executable: C:\Users\Pc\Downloads\Programs\NDP452-KB2901954-Web.exe v4.5.51209.34209
+[5/31/2015, 19:48:31] --- logging level: standard ---
+[5/31/2015, 19:48:31] Successfully bound to the ClusApi.dll
+[5/31/2015, 19:48:31] Error 0x80070424: Failed to open the current cluster
+[5/31/2015, 19:48:31] Cluster drive map: ''
+[5/31/2015, 19:48:31] Considering drive: 'C:\'...
+[5/31/2015, 19:48:31] Considering drive: 'D:\'...
+[5/31/2015, 19:48:31] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[5/31/2015, 19:48:31] Considering drive: 'E:\'...
+[5/31/2015, 19:48:31] Considering drive: 'F:\'...
+[5/31/2015, 19:48:31] Considering drive: 'G:\'...
+[5/31/2015, 19:48:31] Drive 'G:\' is rejected because of the unknown or unsuitable drive type
+[5/31/2015, 19:48:31] Drive 'C:\' has been selected as the largest fixed drive
+[5/31/2015, 19:48:32] Directory 'C:\345be8ea6ae537c92a960c58be\' has been selected for file extraction
+[5/31/2015, 19:48:32] Extracting files to: C:\345be8ea6ae537c92a960c58be\
+[5/31/2015, 19:48:35] Extraction took 3.589 seconds
+[5/31/2015, 19:48:35] Executing command line: 'C:\345be8ea6ae537c92a960c58be\\Setup.exe   /x86 /x64 /web'

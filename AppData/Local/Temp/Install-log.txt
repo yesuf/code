@@ -1,0 +1,6 @@
+Log file for debugging:
+Enter GetLicenseEncryption
+PluLicenseNumber = B3CAA000
+PluLicenseNumber = 3016400896
+PLUCheckFlag = 0
+szPluEncryptedNumber = 2cf3d5993da11f47

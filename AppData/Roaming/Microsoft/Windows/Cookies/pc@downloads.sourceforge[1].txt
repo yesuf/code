@@ -1,0 +1,9 @@
+sf_mirror_attempt
+"npppluginmgr:liquidtelecom:xml/plugins.md5.txt"
+downloads.sourceforge.net/
+1536
+2514080976
+30448669
+2514080976
+30448669
+*

@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\bin\TraningApplication6.dll
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\bin\TraningApplication6.pdb
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\bin\EntityFramework.dll
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\bin\EntityFramework.xml
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\obj\Debug\TraningApplication6.dll
+C:\Users\Pc\Desktop\PROJECT\TraningApplication6\TraningApplication6\obj\Debug\TraningApplication6.pdb

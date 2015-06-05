@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\bin\MVC3Test.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\bin\MVC3Test.pdb
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\bin\EntityFramework.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\bin\EntityFramework.xml
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\obj\Debug\MVC3Test.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Test\MVC3Test\obj\Debug\MVC3Test.pdb

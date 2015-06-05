@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\bin\MVC3Training.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\bin\MVC3Training.pdb
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\bin\EntityFramework.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\bin\EntityFramework.xml
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\obj\Debug\MVC3Training.dll
+C:\Users\Pc\Desktop\PROJECT\MVC3Training\MVC3Training\obj\Debug\MVC3Training.pdb

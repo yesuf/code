@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+C:\Users\Pc\Desktop\PROJECT\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
