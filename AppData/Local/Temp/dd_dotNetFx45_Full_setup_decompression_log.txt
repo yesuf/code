@@ -1,20 +1,24 @@
-[6/2/2015, 14:50:56] === Logging started: 2015/06/02 14:50:56 ===
-[6/2/2015, 14:50:56] Executable: C:\Users\Pc\Desktop\dotNetFx45_Full_setup.exe v4.5.50709.17929
-[6/2/2015, 14:50:56] --- logging level: standard ---
-[6/2/2015, 14:50:56] Successfully bound to the ClusApi.dll
-[6/2/2015, 14:50:56] Error 0x80070424: Failed to open the current cluster
-[6/2/2015, 14:50:56] Cluster drive map: ''
-[6/2/2015, 14:50:56] Considering drive: 'C:\'...
-[6/2/2015, 14:50:56] Considering drive: 'D:\'...
-[6/2/2015, 14:50:56] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
-[6/2/2015, 14:50:56] Considering drive: 'E:\'...
-[6/2/2015, 14:50:56] Considering drive: 'F:\'...
-[6/2/2015, 14:50:56] Considering drive: 'G:\'...
-[6/2/2015, 14:50:56] Drive 'G:\' is rejected because of the unknown or unsuitable drive type
-[6/2/2015, 14:50:56] Drive 'C:\' has been selected as the largest fixed drive
-[6/2/2015, 14:50:56] Directory 'C:\bc5ce25d7c43bff84183096ed1\' has been selected for file extraction
-[6/2/2015, 14:50:56] Extracting files to: C:\bc5ce25d7c43bff84183096ed1\
-[6/2/2015, 14:50:59] Extraction took 2.558 seconds
-[6/2/2015, 14:50:59] Executing command line: 'C:\bc5ce25d7c43bff84183096ed1\\Setup.exe   /x86 /x64 /web'
-[6/2/2015, 14:51:37] Exiting with result code: 0x0
-[6/2/2015, 14:51:37] === Logging stopped: 2015/06/02 14:51:37 ===
+[6/7/2015, 21:25:16] === Logging started: 2015/06/07 21:25:16 ===
+[6/7/2015, 21:25:16] Executable: C:\Users\Pc\AppData\Local\Temp\VSDDFCA.tmp\DotNetFX45\dotNetFx45_Full_setup.exe v4.5.50709.17929
+[6/7/2015, 21:25:16] --- logging level: standard ---
+[6/7/2015, 21:25:16] Successfully bound to the ClusApi.dll
+[6/7/2015, 21:25:16] Error 0x80070424: Failed to open the current cluster
+[6/7/2015, 21:25:16] Cluster drive map: ''
+[6/7/2015, 21:25:16] Considering drive: 'C:\'...
+[6/7/2015, 21:25:16] Considering drive: 'D:\'...
+[6/7/2015, 21:25:16] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[6/7/2015, 21:25:16] Considering drive: 'E:\'...
+[6/7/2015, 21:25:16] Considering drive: 'F:\'...
+[6/7/2015, 21:25:16] Considering drive: 'G:\'...
+[6/7/2015, 21:25:16] Drive 'G:\' is rejected because of the unknown or unsuitable drive type
+[6/7/2015, 21:25:16] Considering drive: 'H:\'...
+[6/7/2015, 21:25:16] Drive 'H:\' is rejected because of the unknown or unsuitable drive type
+[6/7/2015, 21:25:16] Considering drive: 'I:\'...
+[6/7/2015, 21:25:16] Drive 'I:\' is rejected because of the unknown or unsuitable drive type
+[6/7/2015, 21:25:16] Considering drive: 'J:\'...
+[6/7/2015, 21:25:16] Drive 'J:\' is rejected because of the unknown or unsuitable drive type
+[6/7/2015, 21:25:16] Drive 'C:\' has been selected as the largest fixed drive
+[6/7/2015, 21:25:17] Directory 'C:\6e390c93ce9fb01bf4a78dd273d637\' has been selected for file extraction
+[6/7/2015, 21:25:17] Extracting files to: C:\6e390c93ce9fb01bf4a78dd273d637\
+[6/7/2015, 21:25:19] Extraction took 2.28 seconds
+[6/7/2015, 21:25:19] Executing command line: 'C:\6e390c93ce9fb01bf4a78dd273d637\\Setup.exe   /q /norestart /ChainingPackage FullX64Bootstrapper /lcid 1033 /x86 /x64 /web'

@@ -73,3 +73,11 @@
 [06/01/15,19:03:55] ==========Session Start============
 [06/01/15,19:03:55] SetupUtility.exe /screboot
 [06/01/15,19:03:55] ===========Session End=============
+[06/07/15,21:25:42] ==========Session Start============
+[06/07/15,21:25:42] SetupUtility.exe /aupause
+[06/07/15,21:25:42] Pausing Automatic Updates ...
+[06/07/15,21:25:42] ... succeeded.
+[06/07/15,21:25:42] ===========Session End=============
+[06/07/15,22:49:35] ==========Session Start============
+[06/07/15,22:49:35] SetupUtility.exe /screboot
+[06/07/15,22:49:35] ===========Session End=============
