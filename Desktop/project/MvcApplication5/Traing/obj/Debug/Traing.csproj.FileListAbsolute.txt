@@ -1,7 +1,0 @@
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\bin\Traing.dll
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\bin\Traing.pdb
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\bin\EntityFramework.dll
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\bin\EntityFramework.xml
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\obj\Debug\Traing.dll
-C:\Users\Pc\Desktop\PROJECT\MvcApplication5\Traing\obj\Debug\Traing.pdb

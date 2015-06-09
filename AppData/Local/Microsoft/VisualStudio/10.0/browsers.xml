@@ -1,2 +1,0 @@
-<?xml version="1.0"?>
-<BrowserInfo><Browser><Name>Firefox</Name><Path>"C:\Program Files (x86)\Mozilla Firefox\firefox.exe"</Path><Resolution>0</Resolution><IsDefault>True</IsDefault><DDE><Service>FIREFOX</Service><TopicOpenURL>WWW_OpenURL</TopicOpenURL><ItemOpenURL>%s,,0xffffffff,3,,,</ItemOpenURL><TopicActivate>WWW_Activate</TopicActivate><ItemActivate>0xffffffff</ItemActivate></DDE></Browser></BrowserInfo>

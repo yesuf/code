@@ -1,9 +1,0 @@
-proxy
-http://localhost:48974/proxy/0/
-localhost/
-0
-1422322560
-30448640
-822592560
-30448640
-*

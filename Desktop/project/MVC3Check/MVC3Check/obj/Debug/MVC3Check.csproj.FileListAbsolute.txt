@@ -1,7 +1,0 @@
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\bin\MVC3Check.dll
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\bin\MVC3Check.pdb
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\bin\EntityFramework.dll
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\bin\EntityFramework.xml
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\obj\Debug\MVC3Check.dll
-C:\Users\Pc\Desktop\PROJECT\MVC3Check\MVC3Check\obj\Debug\MVC3Check.pdb
