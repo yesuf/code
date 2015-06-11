@@ -1,0 +1,21 @@
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\obj\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\bin\Debug\Hospital.Business.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\bin\Debug\Hospital.Business.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\obj\Debug\Hospital.Business.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.Business\obj\Debug\Hospital.Business.pdb
+J:\orginal hard disk\Hospital\Hospital.Business\bin\Debug\Hospital.Business.dll
+J:\orginal hard disk\Hospital\Hospital.Business\bin\Debug\Hospital.Business.pdb
+J:\orginal hard disk\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.dll
+J:\orginal hard disk\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.pdb
+J:\orginal hard disk\Hospital\Hospital.Business\obj\Debug\ResolveAssemblyReference.cache
+J:\orginal hard disk\Hospital\Hospital.Business\obj\Debug\Hospital.Business.dll
+J:\orginal hard disk\Hospital\Hospital.Business\obj\Debug\Hospital.Business.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\bin\Debug\Hospital.Business.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\bin\Debug\Hospital.Business.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\bin\Debug\Hospital.DataAccess.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\obj\Debug\Hospital.Business.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.Business\obj\Debug\Hospital.Business.pdb

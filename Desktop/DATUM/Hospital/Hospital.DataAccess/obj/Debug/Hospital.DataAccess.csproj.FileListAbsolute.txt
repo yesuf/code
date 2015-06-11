@@ -1,0 +1,18 @@
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll.config
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.pdb
+J:\orginal hard disk\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll.config
+J:\orginal hard disk\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll
+J:\orginal hard disk\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.pdb
+J:\orginal hard disk\Hospital\Hospital.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+J:\orginal hard disk\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.dll
+J:\orginal hard disk\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll.config
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\bin\Debug\Hospital.DataAccess.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.DataAccess\obj\Debug\Hospital.DataAccess.pdb

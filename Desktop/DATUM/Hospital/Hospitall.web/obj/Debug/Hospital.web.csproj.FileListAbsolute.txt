@@ -1,0 +1,15 @@
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospitall.web.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospitall.web.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\obj\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\obj\Debug\Hospitall.web.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\obj\Debug\Hospitall.web.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospital.Business.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospital.DataAccess.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospital.Business.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospitall.web\bin\Hospital.DataAccess.pdb
+J:\orginal hard disk\Hospital\Hospitall.web\obj\Debug\ResolveAssemblyReference.cache
+J:\orginal hard disk\Hospital\Hospitall.web\obj\Debug\Hospitall.web.dll
+J:\orginal hard disk\Hospital\Hospitall.web\obj\Debug\Hospitall.web.pdb
+C:\Users\Pc\Desktop\Hospital\Hospitall.web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Hospital\Hospitall.web\obj\Debug\Hospitall.web.dll
+C:\Users\Pc\Desktop\Hospital\Hospitall.web\obj\Debug\Hospitall.web.pdb

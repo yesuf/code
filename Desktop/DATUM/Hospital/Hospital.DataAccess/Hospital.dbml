@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Hospital" Class="HospitalDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=COMPLAB23\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=True" SettingsObjectName="Hospital.DataAccess.Properties.Settings" SettingsPropertyName="HospitalConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.PatientHistory" Member="PatientHistories">
+    <Type Name="PatientHistory">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AdmissionDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Doctor" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="DoctorID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PatientID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ReleaseDate" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Ward" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="Patient_PatientHistory" Member="Patient" ThisKey="PatientID" OtherKey="Id" Type="Patient" IsForeignKey="true" />
+      <Association Name="Doctor_PatientHistory" Member="Doctor1" ThisKey="DoctorID" OtherKey="ID" Type="Doctor" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Patient" Member="Patients">
+    <Type Name="Patient">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PatientName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="Patient_PatientHistory" Member="PatientHistories" ThisKey="Id" OtherKey="PatientID" Type="PatientHistory" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Doctor" Member="Doctors">
+    <Type Name="Doctor">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Designation" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="DeptID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DOB" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="JoinDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Doctor_PatientHistory" Member="PatientHistories" ThisKey="ID" OtherKey="DoctorID" Type="PatientHistory" />
+      <Association Name="Departiment_Doctor" Member="Departiment" ThisKey="DeptID" OtherKey="ID" Type="Departiment" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Departiment" Member="Departiments">
+    <Type Name="Departiment">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeptName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Departiment_Doctor" Member="Doctors" ThisKey="ID" OtherKey="DeptID" Type="Doctor" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Login1" Member="Login1s">
+    <Type Name="Login1">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="password" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

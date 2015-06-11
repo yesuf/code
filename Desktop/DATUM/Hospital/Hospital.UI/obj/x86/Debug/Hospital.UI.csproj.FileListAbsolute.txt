@@ -1,0 +1,54 @@
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.UI.exe
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.UI.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.dll
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.exe
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.pdb
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.g.resources
+d:\my documents\visual studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form2.resources
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.Business.dll
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\bin\Debug\Hospital.Business.pdb
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form3.resources
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form4.resources
+D:\My Documents\Visual Studio 2010\Projects\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form5.resources
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.UI.exe
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.UI.pdb
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.Business.dll
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.dll
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.Business.pdb
+J:\orginal hard disk\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.pdb
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.g.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form2.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form1.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form3.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form4.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form5.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Properties.Resources.resources
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.exe
+J:\orginal hard disk\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.UI.exe
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.UI.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.Business.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.dll
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.Business.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\bin\Debug\Hospital.DataAccess.pdb
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.g.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form2.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form1.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form3.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form4.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Form5.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.Properties.Resources.resources
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.exe
+C:\Users\Pc\Desktop\Hospital\Hospital.UI\obj\x86\Debug\Hospital.UI.pdb
